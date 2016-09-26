@@ -1,0 +1,15 @@
+---
+layout: post
+title: "3 Minute Journal"
+date: 2015-05-25
+categories:
+---
+Hi, thanks for viewing my theme! Feel free to edit it in any way you want, just be cool and leave the necessary credits somewhere visible. If you could star the repository, that'd be pretty cool as well.
+
+Here's a list of things you should probably do after installing this theme:
+
+| Failure No.        | Screenshot           | Classification  |
+| ------------- |:-------------:| -----:|
+| 1      | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault1/overflow-Width464.png) | TP |
+| 2      |       |   FP |
+| 3 |       |    NOI |
