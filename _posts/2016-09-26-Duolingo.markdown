@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Duolingo"
+---
+| Failure No. | Screenshot | Classification |
+| 1 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault1/viewportOverflowWidth981.png) | FP |
+| 2 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault2/viewportOverflowWidth981.png) | FP |
+| 3 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault3/viewportOverflowWidth1259.png) | FP |
+| 4 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault4/viewportOverflowWidth981.png) | FP |
+| 5 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault5/viewportOverflowWidth981.png) | FP |
+| 6 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault6/viewportOverflowWidth981.png) | FP |
+| 7 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault7/viewportOverflowWidth981.png) | TP |
+| 8 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault8/viewportOverflowWidth981.png) | NOI |
+| 9 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault9/viewportOverflowWidth981.png) | FP |
+| 10 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault10/viewportOverflowWidth981.png) | FP |
+| 11 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault11/viewportOverflowWidth981.png) | FP |
+| 12 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault12/viewportOverflowWidth981.png) | FP |
+| 13 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault13/viewportOverflowWidth981.png) | FP |
+| 14 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault14/viewportOverflowWidth981.png) | FP |
+| 15 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault15/overlapWidth550.png) | FP |
+| 16 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault16/overlapWidth550.png) | FP |
+| 17 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault17/overlapWidth550.png) | FP |
+| 18 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault18/overlapWidth690.png) | FP |
+| 19 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault19/overlapWidth1190.png) | FP |
+| 20 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault20/smallrangeWidth519.png) | FP |
+| 21 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault21/smallrangeWidth978.png) | FP |
+| 22 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault22/smallrangeWidth599.png) | NOI |
+| 23 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault23/viewportOverflowWidth981.png) | NOI |
+| 24 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault24/wrappingWidth856.png) | NOI |
+| 25 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault25/wrappingWidth625.png) | NOI |
+| 26 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault26/viewportOverflowWidth981.png) | NOI |
+| 27 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault27/viewportOverflowWidth981.png) | FP |
+| 28 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault28/viewportOverflowWidth981.png) | FP |
+| 29 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault29/viewportOverflowWidth981.png) | FP |
+| 30 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault30/viewportOverflowWidth981.png) | FP |
+| 31 | [Screenshot]({{ site.url }}/assets/images/Duolingo/fault31/viewportOverflowWidth981.png) | FP |

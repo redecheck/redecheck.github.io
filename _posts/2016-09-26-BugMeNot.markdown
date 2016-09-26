@@ -1,0 +1,13 @@
+---
+layout: post
+title: "BugMeNot"
+---
+| Failure No. | Screenshot | Classification |
+| 1 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault1/overflow-Width464.png) | NOI |
+| 2 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault2/overlapWidth401.png) | NOI |
+| 3 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault3/overlapWidth1039.png) | NOI |
+| 4 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault4/overlapWidth900.png) | NOI |
+| 5 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault5/overflow-Width540.png) | TP |
+| 6 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault6/overflow-Width410.png) | NOI |
+| 7 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault7/overlapWidth523.png) | TP |
+| 8 | [Screenshot]({{ site.url }}/assets/images/BugMeNot/fault8/wrappingWidth485.png) | TP |
