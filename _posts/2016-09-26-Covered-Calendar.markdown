@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Covered-Calendar"
+elements: 147
+decs: 5131
+fullurl: www.coveredcalendar.com
 ---
-| Failure No. | Screenshot | Classification |
-| 1 | [Screenshot]({{ site.baseurl }}/assets/images/Covered-Calendar/fault1/viewportOverflowWidth1200.png) | NOI |
-| 2 | [Screenshot]({{ site.baseurl }}/assets/images/Covered-Calendar/fault2/viewportOverflowWidth1200.png) | NOI |
-| 3 | [Screenshot]({{ site.baseurl }}/assets/images/Covered-Calendar/fault3/viewportOverflowWidth1200.png) | NOI |
-| 4 | [Screenshot]({{ site.baseurl }}/assets/images/Covered-Calendar/fault4/overlapWidth583.png) | NOI |
+| Failure No. | Category | Screenshot | Classification |
+| 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Covered-Calendar/fault1/viewportOverflowWidth1200.png) | NOI |
+| 2 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Covered-Calendar/fault2/viewportOverflowWidth1200.png) | NOI |
+| 3 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Covered-Calendar/fault3/viewportOverflowWidth1200.png) | NOI |
+| 4 | Overlap | [Click]({{ site.baseurl }}/assets/images/Covered-Calendar/fault4/overlapWidth583.png) | NOI |

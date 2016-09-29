@@ -1,13 +1,16 @@
 ---
 layout: post
 title: "BugMeNot"
+elements: 41
+decs: 237
+fullurl: www.bugmenot.com
 ---
-| Failure No. | Screenshot | Classification |
-| 1 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault1/overflow-Width464.png) | NOI |
-| 2 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault2/overlapWidth401.png) | NOI |
-| 3 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault3/overlapWidth1039.png) | NOI |
-| 4 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault4/overlapWidth900.png) | NOI |
-| 5 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault5/overflow-Width540.png) | TP |
-| 6 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault6/overflow-Width410.png) | NOI |
-| 7 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault7/overlapWidth523.png) | TP |
-| 8 | [Screenshot]({{ site.baseurl }}/assets/images/BugMeNot/fault8/wrappingWidth485.png) | TP |
+| Failure No. | Category | Screenshot | Classification |
+| 1 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault1/overflow-Width464.png) | NOI |
+| 2 | Overlap | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault2/overlapWidth401.png) | NOI |
+| 3 | Overlap | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault3/overlapWidth1039.png) | NOI |
+| 4 | Overlap | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault4/overlapWidth900.png) | NOI |
+| 5 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault5/overflow-Width540.png) | TP |
+| 6 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault6/overflow-Width410.png) | NOI |
+| 7 | Overlap | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault7/overlapWidth523.png) | TP |
+| 8 | Wrapping | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault8/wrappingWidth485.png) | TP |
