@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "StumbleUpon"
-elements: 0
-decs: 0
-fullurl: 
+title: StumbleUpon
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Overlap | [Click]({{ site.baseurl }}/assets/images/StumbleUpon/fault1/overlapWidth419.png) | TP |

@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "UserSearch"
-elements: 0
-decs: 0
-fullurl: 
+title: UserSearch
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/UserSearch/fault1/overflow-Width743.png) | NOI |

@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "BugMeNot"
-elements: 41
-decs: 237
-fullurl: www.bugmenot.com
+title: BugMeNot
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/BugMeNot/fault1/overflow-Width464.png) | NOI |

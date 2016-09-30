@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "MidwayMeetup"
-elements: 0
-decs: 0
-fullurl: 
+title: MidwayMeetup
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/MidwayMeetup/fault1/viewportOverflowWidth400.png) | NOI |

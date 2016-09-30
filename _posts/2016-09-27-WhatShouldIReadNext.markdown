@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "WhatShouldIReadNext"
-elements: 0
-decs: 0
-fullurl: 
+title: WhatShouldIReadNext
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth601.png) | NOI |

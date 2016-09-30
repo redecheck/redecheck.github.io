@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "Covered-Calendar"
-elements: 147
-decs: 5131
-fullurl: www.coveredcalendar.com
+title: Covered-Calendar
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Covered-Calendar/fault1/viewportOverflowWidth1200.png) | NOI |

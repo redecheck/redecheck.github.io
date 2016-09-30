@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "Dictation"
-elements: 194
-decs: 166
-fullurl: dictation.io
+title: Dictation
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Dictation/fault1/viewportOverflowWidth400.png) | NOI |

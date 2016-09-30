@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "GetPocket"
-elements: 0
-decs: 0
-fullurl: 
+title: GetPocket
 ---
 | Failure No. | Category | Screenshot | Classification |
 | 1 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/GetPocket/fault1/overflow-Width834.png) | NOI |
