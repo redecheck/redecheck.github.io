@@ -3,7 +3,7 @@ layout: post
 title: "MidwayMeetup"
 elements: 85
 decs: 2942
-fullurl: 
+fullurl: www.midwaymeetup.com
 ---
 | Failure No. | Category | Screenshot | Classification | Reason | 
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/MidwayMeetup/fault1/viewportOverflowWidth400.png) | NOI | No content obscured by viewport overflow |

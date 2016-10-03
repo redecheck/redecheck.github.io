@@ -3,7 +3,7 @@ layout: post
 title: "GetPocket"
 elements: 663
 decs: 5203
-fullurl: 
+fullurl: getpocket.com
 ---
 | Failure No. | Category | Screenshot | Classification | Reason | 
 | 1 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/GetPocket/fault1/overflow-Width834.png) | NOI | No visual overflow |

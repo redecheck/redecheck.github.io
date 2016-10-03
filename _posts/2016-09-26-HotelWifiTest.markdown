@@ -3,7 +3,7 @@ layout: post
 title: "HotelWifiTest"
 elements: 358
 decs: 4258
-fullurl: 
+fullurl: www.hotelwifitest.com
 ---
 | Failure No. | Category | Screenshot | Classification | Reason | 
 | 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/HotelWifiTest/fault1/viewportOverflowWidth415.png) | TP | Lots of main content obscured |
