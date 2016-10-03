@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Results
-permalink: /results/
+title: ICST 2017
+permalink: /icst17/
 ---
 
 Below are links to the failure reports of the 25 subject web pages in our most recent study.
