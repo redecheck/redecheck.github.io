@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Duolingo"
+elements: 857
+decs: 2257
+fullurl: www.duolingo.com
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault1/viewportOverflowWidth981.png) | FP | null |
+| 2 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault2/viewportOverflowWidth981.png) | FP | null |
+| 3 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault3/viewportOverflowWidth981.png) | FP | null |
+| 4 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault4/viewportOverflowWidth981.png) | FP | null |
+| 5 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault5/viewportOverflowWidth981.png) | FP | null |
+| 6 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault6/viewportOverflowWidth981.png) | FP | null |
+| 7 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault7/viewportOverflowWidth981.png) | TP | null |
+| 8 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault8/viewportOverflowWidth981.png) | NOI | null |
+| 9 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault9/viewportOverflowWidth981.png) | FP | null |
+| 10 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault10/viewportOverflowWidth981.png) | FP | null |
+| 11 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault11/viewportOverflowWidth1259.png) | FP | null |
+| 12 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault12/viewportOverflowWidth981.png) | FP | null |
+| 13 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault13/viewportOverflowWidth981.png) | FP | null |
+| 14 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault14/viewportOverflowWidth981.png) | FP | null |
+| 15 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault15/viewportOverflowWidth981.png) | FP | null |
+| 16 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault16/viewportOverflowWidth981.png) | FP | null |
+| 17 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault17/viewportOverflowWidth981.png) | FP | null |
+| 18 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault18/viewportOverflowWidth981.png) | FP | null |
+| 19 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault19/viewportOverflowWidth981.png) | FP | null |
+| 20 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault20/viewportOverflowWidth981.png) | FP | null |
+| 21 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault21/viewportOverflowWidth981.png) | FP | null |
+| 22 | Overlap | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault22/overlapWidth550.png) | NOI | null |
+| 23 | Overlap | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault23/overlapWidth550.png) | NOI | null |
+| 24 | Overlap | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault24/overlapWidth550.png) | NOI | null |
+| 25 | Overlap | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault25/overlapWidth690.png) | NOI | null |
+| 26 | Overlap | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault26/overlapWidth1190.png) | NOI | null |
+| 27 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault27/smallrangeWidth519.png) | FP | null |
+| 28 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault28/smallrangeWidth978.png) | FP | null |
+| 29 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault29/smallrangeWidth599.png) | FP | null |
+| 30 | Wrapping | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault30/wrappingWidth856.png) | FP | null |
+| 31 | Wrapping | [Click]({{ site.baseurl }}/assets/images/Duolingo/fault31/wrappingWidth625.png) | FP | null |
