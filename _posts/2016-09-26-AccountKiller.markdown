@@ -35,12 +35,12 @@ fullurl: www.accountkiller.com/en
 | 27 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault27/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 28 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault28/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 29 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault29/smallrangeWidth478.png) | TP | Signficant layout change on either side |
-| 30 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault30/smallrangeWidth641.png) | FP |  |
+| 30 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault30/smallrangeWidth641.png) | FP | No significant change in layout |
 | 31 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault31/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 32 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault32/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 33 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault33/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 34 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault34/smallrangeWidth478.png) | TP | Signficant layout change on either side |
-| 35 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault35/smallrangeWidth641.png) | FP |  |
+| 35 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault35/smallrangeWidth641.png) | FP | No significant change in layout |
 | 36 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault36/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 37 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault37/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 38 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault38/smallrangeWidth478.png) | TP | Signficant layout change on either side |
@@ -58,7 +58,7 @@ fullurl: www.accountkiller.com/en
 | 50 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault50/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 51 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault51/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 52 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault52/smallrangeWidth478.png) | TP | Signficant layout change on either side |
-| 53 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault53/smallrangeWidth641.png) | FP |  |
+| 53 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault53/smallrangeWidth641.png) | FP | No significant change in layout |
 | 54 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault54/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 55 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault55/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 56 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault56/smallrangeWidth478.png) | TP | Signficant layout change on either side |
@@ -94,7 +94,7 @@ fullurl: www.accountkiller.com/en
 | 86 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault86/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 87 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault87/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 88 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault88/smallrangeWidth581.png) | TP | Signficant layout change on either side |
-| 89 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault89/smallrangeWidth641.png) | FP |  |
+| 89 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault89/smallrangeWidth641.png) | FP | No significant change in layout |
 | 90 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault90/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 91 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault91/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 92 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault92/smallrangeWidth478.png) | TP | Signficant layout change on either side |
@@ -146,7 +146,7 @@ fullurl: www.accountkiller.com/en
 | 138 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault138/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 139 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault139/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 140 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault140/smallrangeWidth478.png) | TP | Signficant layout change on either side |
-| 141 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault141/smallrangeWidth641.png) | FP | Signficant layout change on either side |
+| 141 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault141/smallrangeWidth641.png) | FP | No significant change in layout |
 | 142 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault142/smallrangeWidth478.png) | TP | Signficant layout change on either side |
 | 143 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault143/smallrangeWidth581.png) | TP | Signficant layout change on either side |
 | 144 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault144/smallrangeWidth478.png) | TP | Signficant layout change on either side |
