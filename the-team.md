@@ -10,7 +10,7 @@ Thomas is a PhD student in the Testing Research Group at the University of Sheff
 ![Tom]({{ site.baseurl }}/assets/images/tom.jpeg){: .center-image }
 
 ## Phil McMinn
-Phil is a Reader (Associate Professor) of Software Engineering at the Department of Computer Science, University of Sheffield. His research area is automated approaches to software testing and improving the productivity of software developers and testers. He is als an associate editor for IEEE Transactions on Software Engineering and Software Testing, Verification and Reliability journals.
+Phil is a Reader (Associate Professor) of Software Engineering at the Department of Computer Science, University of Sheffield. His research area is automated approaches to software testing and improving the productivity of software developers and testers. He is also an associate editor for IEEE Transactions on Software Engineering and Software Testing, Verification and Reliability journals.
 
 ![Phil]({{ site.baseurl }}/assets/images/phil.jpg){: .center-image }
 

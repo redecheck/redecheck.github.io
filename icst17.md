@@ -12,4 +12,4 @@ The links below give further details of each of the failure reports raised by ou
 
 | Title | URL | HTML Elements | CSS Declarations | Results |
 |---|---|{% for my_post in site.posts reversed %}{% if my_post.title %}
-|{{ my_post.title }}  |{{ my_post.fullurl }}  | {{my_post.elements }} | {{ my_post.decs }} | [Click Here]({{ my_post.url }}){% endif %}{% endfor %}
+|{{ my_post.title }}  |[{{ my_post.fullurl }}](http://{{ my_post.fullurl }})  | {{my_post.elements }} | {{ my_post.decs }} | [Click Here]({{ my_post.url }}){% endif %}{% endfor %}
