@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Ninite"
+elements: 640
+decs: 2721
+fullurl: ninite.com
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Overlap | [Click]({{ site.baseurl }}/assets/images/Ninite/fault1/overlapWidth1084.png) | NOI | No visible overlap |
+| 2 | Overlap | [Click]({{ site.baseurl }}/assets/images/Ninite/fault2/overlapWidth1084.png) | NOI | No visible overlap |
+| 3 | Overlap | [Click]({{ site.baseurl }}/assets/images/Ninite/fault3/overlapWidth1084.png) | NOI | No visible overlap |

@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Honey"
+elements: 460
+decs: 3249
+fullurl: www.joinhoney.com/install
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault1/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 2 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault2/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 3 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault3/viewportOverflowWidth768.png) | NOI | No visible viewport overflow |
+| 4 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault4/viewportOverflowWidth992.png) | NOI | No visible viewport overflow |
+| 5 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault5/overflow-Width1200.png) | NOI | No visible element overflow |
+| 6 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault6/overflow-Width1100.png) | NOI | No visible element overflow |
+| 7 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault7/overflow-Width739.png) | NOI | No visible element overflow |
+| 8 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault8/overflow-Width282.png) | NOI | No visible element overflow |
+| 9 | Overlap | [Click]({{ site.baseurl }}/assets/images/Honey/fault9/overlapWidth641.png) | NOI | No content overlap |
+| 10 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault10/overflow-Width665.png) | NOI | No visible element overflow |
+| 11 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault11/overflow-Width1200.png) | NOI | No visible element overflow |
+| 12 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/Honey/fault12/overflow-Width723.png) | NOI | No visible element overflow |
+| 13 | Overlap | [Click]({{ site.baseurl }}/assets/images/Honey/fault13/overlapWidth286.png) | TP | No content overlap |
+| 14 | Overlap | [Click]({{ site.baseurl }}/assets/images/Honey/fault14/overlapWidth1076.png) | NOI | No content overlap |
+| 15 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Honey/fault15/smallrangeWidth1200.png) | FP | No significant layout change |
+| 16 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Honey/fault16/smallrangeWidth1200.png) | FP | No significant layout change |
+| 17 | Small-Range | [Click]({{ site.baseurl }}/assets/images/Honey/fault17/smallrangeWidth1200.png) | FP | No significant layout change |

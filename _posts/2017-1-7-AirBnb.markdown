@@ -1,0 +1,28 @@
+---
+layout: post
+title: "AirBnb"
+elements: 1469
+decs: 5638
+fullurl: www.airbnb.com
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault1/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 2 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault2/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 3 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault3/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 4 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault4/viewportOverflowWidth744.png) | NOI | No visible viewport overflow |
+| 5 | Viewport Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault5/viewportOverflowWidth280.png) | NOI | No visible viewport overflow |
+| 6 | Overlap | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault6/overlapWidth935.png) | NOI | No visible element overlap |
+| 7 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault7/overflow-Width511.png) | NOI | No visible element overflow |
+| 8 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault8/overflow-Width936.png) | NOI | No visible element overflow |
+| 9 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault9/overflow-Width511.png) | NOI | No visible element overflow |
+| 10 | Element Overflow | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault10/overflow-Width511.png) | NOI | No visible element overflow |
+| 11 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault11/smallrangeWidth1199.png) | FP | No significant layout change |
+| 12 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault12/smallrangeWidth1200.png) | FP | No significant layout change |
+| 13 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault13/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 14 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault14/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 15 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault15/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 16 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault16/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 17 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault17/wrappingWidth329.png) | TP | Element clearly wrapped |
+| 18 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault18/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 19 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault19/wrappingWidth935.png) | FP | Elements intentionally in multiple rows |
+| 20 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault20/wrappingWidth341.png) | TP | Element clearly wrapped |
