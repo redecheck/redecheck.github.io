@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Ninite"
+elements: 640
+decs: 2721
+fullurl: ninite.com
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Wrapping | [Click]({{ site.baseurl }}/assets/images/Ninite/fault1/wrappingWidth512.png) | FP | Intentional layout change causes element to appear on separate row |
+| 2 | Wrapping | [Click]({{ site.baseurl }}/assets/images/Ninite/fault2/wrappingWidth371.png) | TP | 'terms' nav link clearly wrapped onto new line |

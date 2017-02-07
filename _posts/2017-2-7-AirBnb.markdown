@@ -1,0 +1,21 @@
+---
+layout: post
+title: "AirBnb"
+elements: 1469
+decs: 5638
+fullurl: www.airbnb.com
+---
+| Failure No. | Category | Screenshot | Classification | Reason | 
+| 1 | Viewport Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault1/viewportOverflowWidth531.png) | NOI | null |
+| 2 | Viewport Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault2/viewportOverflowWidth531.png) | NOI | null |
+| 3 | Viewport Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault3/viewportOverflowWidth515.png) | NOI | null |
+| 4 | Viewport Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault4/viewportOverflowWidth908.png) | NOI | null |
+| 5 | Element Collision | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault5/overlapWidth935.png) | NOI | null |
+| 6 | Element Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault6/overflow-Width531.png) | NOI | null |
+| 7 | Element Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault7/overflow-Width531.png) | NOI | null |
+| 8 | Element Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault8/overflow-Width756.png) | NOI | null |
+| 9 | Element Protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault9/overflow-Width531.png) | NOI | null |
+| 10 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault10/smallrangeWidth1199.png) | FP | null |
+| 11 | Small-Range | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault11/smallrangeWidth1200.png) | FP | null |
+| 12 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault12/wrappingWidth328.png) | TP | null |
+| 13 | Wrapping | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault13/wrappingWidth341.png) | TP | null |
