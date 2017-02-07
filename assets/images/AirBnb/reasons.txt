@@ -1,0 +1,20 @@
+No visible viewport overflow
+No visible viewport overflow
+No visible viewport overflow
+No visible viewport overflow
+No visible viewport overflow
+No visible element overlap
+No visible element overflow
+No visible element overflow
+No visible element overflow
+No visible element overflow
+No significant layout change
+No significant layout change
+Elements intentionally in multiple rows
+Elements intentionally in multiple rows
+Elements intentionally in multiple rows
+Elements intentionally in multiple rows
+Element clearly wrapped
+Elements intentionally in multiple rows
+Elements intentionally in multiple rows
+Element clearly wrapped
