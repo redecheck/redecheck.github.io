@@ -1,6 +1,0 @@
-No visible viewport overflow
-No visible viewport overflow
-Elements overlapping/out of position
-No significant layout change
-Layout OK, no wrap
-Layout OK, no wrap

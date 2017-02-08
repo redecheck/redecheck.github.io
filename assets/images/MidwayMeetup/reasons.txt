@@ -1,4 +1,0 @@
-Part of map obscured
-Clear overlap of elements
-No visible element overflow
-No visible element overflow

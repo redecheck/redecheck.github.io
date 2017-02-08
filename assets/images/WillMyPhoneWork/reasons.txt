@@ -1,7 +1,0 @@
-No visible overlap
-Header and main content overlapping
-No visible element overflow
-No visible overlap
-No visible overlap
-Significant change on either side
-Significant change on either side

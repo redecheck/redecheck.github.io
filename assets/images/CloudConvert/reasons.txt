@@ -1,4 +1,0 @@
-Nav-bar and banner overlapping
-Significant layout change on either side
-No significant layout change
-Last item clearly wrapped.

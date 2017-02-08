@@ -1,6 +1,0 @@
-/HTML/BODY/DIV/DIV overflowed the viewport window between 280 and 320
-
-/HTML/BODY/DIV[2] overflowed the viewport window between 280 and 319
-
-/HTML/BODY/DIV[2] overflowed the viewport window between 415 and 767
-

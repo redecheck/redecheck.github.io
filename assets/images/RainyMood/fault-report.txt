@@ -1,4 +1,0 @@
-/HTML/BODY/DIV[2]/DIV/P/A[2]/IMG overflowed the viewport window between 280 and 316
-
-/HTML/BODY/DIV[2]/DIV/P/A/IMG overflowed the viewport window between 280 and 311
-
