@@ -19,4 +19,4 @@ The links below give further details of each of the failure reports raised by ou
 A spreadsheet showing which responsive layout failures can be observed at various viewport widths can be downloaded as an [Excel]({{ site.baseurl }}/assets/rq2.xlsx) or as a [CSV]({{ site.baseurl }}/assets/rq2.csv).
 
 ## Research Question Three
-An archive containing all the individual timing results for our prototype tool is available for download [here]({{ site.baseurl }}/assets/times.zip). PLEASE NOTE: the times recorded are made up of three stages, so the times plotted in the paper correspond to the SUM of these three values.
+A .CSV file containing all of the timing results for our prototype tool is available for download [here]({{ site.baseurl }}/assets/times.csv). PLEASE NOTE: the times recorded are made up of three stages, so the times plotted in the paper correspond to the SUM of these three values. An R snippet to reproduce the graph seen in the paper is available [here]().
