@@ -5,6 +5,18 @@ elements: 343
 decs: 559
 fullurl: www.accountkiller.com/en
 ---
+
+## Distinct RLFs
+
+| RLF No. | Type | Description | Screenshot (Bad) | Screenshot (OK) |
+| 3 | Small-Range | Some tiles shift location for 476px-480px. While not strictly 'bad' in terms of aesthetics, notifying a developer of this layout shift would likely still be useful. Given how few viewport widths it manifests at, it would likely be very difficult and time-consuming for developer to manually detect it. | [478px]({{ site.baseurl }}/assets/good-bad/rlf3/478.png) |  [475px]({{ site.baseurl }}/assets/good-bad/rlf3/475.png)  [481px]({{ site.baseurl }}/assets/good-bad/rlf3/481.png)|
+| 4 | Wrapping | 'The Atlantic' wraps onto a new line. No impact on functionality, but aesthetically, two rows of three icons might look much more professional. Eventually the elements all wrap so they are in 2 rows of 3 and then 3 rows of 2, but a developer should probably use media queries to implement this rather than relying on the incongruously wrapping of the elements. | [Bad]({{ site.baseurl }}/assets/good-bad/rlf4/bad.png) | [OK]({{ site.baseurl }}/assets/good-bad/rlf4/ok.png) |
+| 5 | Wrapping | 'Tweet' icon wraps onto a new line. No impact on functionality again, but does detrimentally impact the looks given all the other icons are shown in a single row. As the viewport continues to narrow, more elements wrap onto the second line which improves the layout a little, but a media query to switch the layout prior to the wrapping behaviour would likely be considered better RWD. | [Bad]({{ site.baseurl }}/assets/good-bad/rlf5/bad.png) | [OK]({{ site.baseurl }}/assets/good-bad/rlf5/ok.png) |
+
+All three of these RLFs are still currently manifesting on the live version of the site, which is viewable [here](https://www.accountkiller.com/en/#).
+
+## Full Results
+
 | Failure No. | Category | Screenshot | Classification | Reason | Distinct RLF |
 | 1| Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault1/smallrangeWidth478.png) | TP | Layout only true from 476-480px, so a TP | 3 |
 | 2| Small-Range | [Click]({{ site.baseurl }}/assets/images/AccountKiller/fault2/smallrangeWidth478.png) | TP | Layout only true from 476-480px, so a TP | 3 |
