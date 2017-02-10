@@ -6,8 +6,8 @@
 </description>
     <link>http://redecheck.org/</link>
     <atom:link href="http://redecheck.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Feb 2017 13:22:21 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 13:22:21 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Feb 2017 15:15:47 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Feb 2017 15:15:47 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -20,6 +20,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -27,6 +28,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -34,13 +36,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/ZeroDollarMovies.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/ZeroDollarMovies.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/ZeroDollarMovies.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/ZeroDollarMovies.html</guid>
         
         
       </item>
@@ -55,6 +58,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -62,6 +66,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault1/overlapWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;No visible content overlap, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -69,6 +74,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding from its parent&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
@@ -76,6 +82,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault3/smallrangeWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Elements are only overlapping for a couple of widths, so a TP&lt;/td&gt;
+      &lt;td&gt;33&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;4&lt;/td&gt;
@@ -83,13 +90,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault4/smallrangeWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Alignment only true for a couple of widths, so a TP&lt;/td&gt;
+      &lt;td&gt;33&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/WillMyPhoneWork.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/WillMyPhoneWork.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/WillMyPhoneWork.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/WillMyPhoneWork.html</guid>
         
         
       </item>
@@ -104,6 +112,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -111,6 +120,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -118,13 +128,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/WhatShouldIReadNext.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/WhatShouldIReadNext.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/WhatShouldIReadNext.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/WhatShouldIReadNext.html</guid>
         
         
       </item>
@@ -139,6 +150,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -146,6 +158,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/UserSearch/fault1/overlapWidth849.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No visible content overlap, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -153,13 +166,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/UserSearch/fault2/wrappingWidth709.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Final navigation link clearly wrapped onto a new line&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/UserSearch.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/UserSearch.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/UserSearch.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/UserSearch.html</guid>
         
         
       </item>
@@ -174,6 +188,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -181,6 +196,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault1/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -188,6 +204,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault2/overlapWidth854.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
@@ -195,6 +212,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault3/overflow-Width510.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;4&lt;/td&gt;
@@ -202,6 +220,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault4/overflow-Width755.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;5&lt;/td&gt;
@@ -209,6 +228,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault5/overlapWidth685.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;6&lt;/td&gt;
@@ -216,6 +236,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault6/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;7&lt;/td&gt;
@@ -223,6 +244,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault7/overflow-Width746.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;8&lt;/td&gt;
@@ -230,6 +252,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault8/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;9&lt;/td&gt;
@@ -237,6 +260,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault9/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;10&lt;/td&gt;
@@ -244,6 +268,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault10/overlapWidth684.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;11&lt;/td&gt;
@@ -251,6 +276,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault11/overflow-Width751.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;12&lt;/td&gt;
@@ -258,6 +284,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault12/smallrangeWidth690.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;13&lt;/td&gt;
@@ -265,13 +292,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault13/smallrangeWidth594.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/TopDocumentary.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/TopDocumentary.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/TopDocumentary.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/TopDocumentary.html</guid>
         
         
       </item>
@@ -286,6 +314,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -293,6 +322,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/StumbleUpon/fault1/overlapWidth379.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Element collision clearly causing undesirable layout&lt;/td&gt;
+      &lt;td&gt;31&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -300,13 +330,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/StumbleUpon/fault2/wrappingWidth750.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;Intentional layout change causes element to appear on separate row&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/StumbleUpon.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/StumbleUpon.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/StumbleUpon.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/StumbleUpon.html</guid>
         
         
       </item>
@@ -321,6 +352,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -328,6 +360,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault1/smallrangeWidth479.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -335,6 +368,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault2/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
@@ -342,6 +376,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault3/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;4&lt;/td&gt;
@@ -349,6 +384,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault4/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;5&lt;/td&gt;
@@ -356,6 +392,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault5/smallrangeWidth770.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;6&lt;/td&gt;
@@ -363,13 +400,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault6/wrappingWidth580.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;Intentional layout change causes element to appear on separate row&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/RunPee.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/RunPee.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/RunPee.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/RunPee.html</guid>
         
         
       </item>
@@ -384,13 +422,14 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/RainyMood.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/RainyMood.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/RainyMood.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/RainyMood.html</guid>
         
         
       </item>
@@ -405,6 +444,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -412,6 +452,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault1/overlapWidth627.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -419,6 +460,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault2/overlapWidth627.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
@@ -426,6 +468,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault3/overflow-Width834.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;4&lt;/td&gt;
@@ -433,6 +476,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault4/overflow-Width881.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;5&lt;/td&gt;
@@ -440,6 +484,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault5/overflow-Width881.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;6&lt;/td&gt;
@@ -447,6 +492,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault6/smallrangeWidth769.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;7&lt;/td&gt;
@@ -454,6 +500,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault7/smallrangeWidth768.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;8&lt;/td&gt;
@@ -461,13 +508,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault8/smallrangeWidth769.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/Pocket.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/Pocket.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/Pocket.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/Pocket.html</guid>
         
         
       </item>
@@ -482,6 +530,7 @@
       &lt;td&gt;Screenshot&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
+      &lt;td&gt;Distinct RLF&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
@@ -489,6 +538,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault1/viewportOverflowWidth591.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Amazon logo obscured by viewport at narrower width than screenshot.&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
@@ -496,6 +546,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault2/viewportOverflowWidth1052.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
@@ -503,6 +554,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault3/overflow-Width879.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;4&lt;/td&gt;
@@ -510,6 +562,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault4/overlapWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 2 clearly overlapping&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;5&lt;/td&gt;
@@ -517,6 +570,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault5/overlapWidth447.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;6&lt;/td&gt;
@@ -524,6 +578,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault6/overlapWidth399.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;7&lt;/td&gt;
@@ -531,6 +586,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault7/overflow-Width879.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;8&lt;/td&gt;
@@ -538,6 +594,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault8/overlapWidth623.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 3 clearly overlapping&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;9&lt;/td&gt;
@@ -545,6 +602,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault9/overlapWidth851.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 3 clearly overlapping&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;10&lt;/td&gt;
@@ -552,6 +610,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault10/overlapWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 2 and 3 clearly overlapping&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;11&lt;/td&gt;
@@ -559,6 +618,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault11/overlapWidth949.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;12&lt;/td&gt;
@@ -566,6 +626,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault12/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;13&lt;/td&gt;
@@ -573,6 +634,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault13/smallrangeWidth734.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;14&lt;/td&gt;
@@ -580,6 +642,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault14/smallrangeWidth599.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;15&lt;/td&gt;
@@ -587,6 +650,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault15/smallrangeWidth749.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;16&lt;/td&gt;
@@ -594,6 +658,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault16/smallrangeWidth1024.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;17&lt;/td&gt;
@@ -601,6 +666,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault17/smallrangeWidth992.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;18&lt;/td&gt;
@@ -608,6 +674,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault18/smallrangeWidth965.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;19&lt;/td&gt;
@@ -615,6 +682,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault19/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;20&lt;/td&gt;
@@ -622,6 +690,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault20/smallrangeWidth749.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;21&lt;/td&gt;
@@ -629,6 +698,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault21/smallrangeWidth599.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;22&lt;/td&gt;
@@ -636,6 +706,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault22/smallrangeWidth734.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;23&lt;/td&gt;
@@ -643,6 +714,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault23/smallrangeWidth771.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;24&lt;/td&gt;
@@ -650,6 +722,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault24/smallrangeWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Layout only true for 415px, so a TP.&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;25&lt;/td&gt;
@@ -657,6 +730,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault25/smallrangeWidth1201.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;26&lt;/td&gt;
@@ -664,6 +738,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault26/smallrangeWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Layout only true for 415px, so a TP.&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;27&lt;/td&gt;
@@ -671,6 +746,7 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault27/smallrangeWidth992.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;28&lt;/td&gt;
@@ -678,13 +754,14 @@
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault28/wrappingWidth353.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;‘The Verge’ has clearly wrapped onto a new line&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/08/PepFeed.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/08/PepFeed.html</guid>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/10/PepFeed.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/10/PepFeed.html</guid>
         
         
       </item>

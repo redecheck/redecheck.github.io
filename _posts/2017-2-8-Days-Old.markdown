@@ -1,9 +1,0 @@
----
-layout: post
-title: "Days-Old"
-elements: 65
-decs: 1033
-fullurl: www.daysold.com
----
-| Failure No. | Category | Screenshot | Classification | Reason | 
-| 1 | Viewport Protrusion | [Click]({{ site.baseurl }}/assets/images/Days-Old/fault1/viewportOverflowWidth330.png) | NOI | No visible protrusion outside the viewport |
