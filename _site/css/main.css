@@ -51,8 +51,8 @@ pre { border-radius: 3px; padding: 8px 12px; overflow-x: scroll; background-colo
 pre > code { background-color: #F5F5F5; border: 0; padding-right: 0; padding-left: 0; }
 
 /* Wrapper ============================================== */
-.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
-@media screen and (max-width: 700px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+.wrapper { max-width: -webkit-calc(980px - (30px * 2)); max-width: calc(980px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
+@media screen and (max-width: 700px) { .wrapper { max-width: -webkit-calc(980px - (30px)); max-width: calc(980px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
 /* Clear Fix ============================================== */
 .wrapper:after { content: ""; display: table; clear: both; }
