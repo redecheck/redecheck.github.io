@@ -5,6 +5,15 @@ elements: 1469
 decs: 5638
 fullurl: www.airbnb.com
 ---
+
+# Distinct RLFs
+
+| RLF No. | Type | Description | Screenshot (Bad) | Screenshot (OK) |
+| 6 | Wrapping | 'Terms & Privacy' icon wraps onto a new line. Not a major issue at all, but something the developer may want to remedy | [Bad]({{ site.baseurl }}/assets/good-bad/rlf6/bad.png) | [OK]({{ site.baseurl }}/assets/good-bad/rlf6/ok.png) |
+| 7 | Wrapping | Instagram icon wraps onto a new line. No impact on functionality again, but does detrimentally impact the looks given all the other icons are shown in a single row | [Bad]({{ site.baseurl }}/assets/good-bad/rlf7/bad.png) | [OK]({{ site.baseurl }}/assets/good-bad/rlf7/ok.png)  |
+
+## Full Results
+
 | Report No. | Report Type | Distinct RLF No. | Viewport Range | Classification | Reason | Screenshot |
 | 167 | Viewport Protrusion| | 320px-743px | NOI | No content obscured by viewport protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault1/viewportOverflowWidth531.png) |
 | 168 | Viewport Protrusion| | 320px-743px | NOI | No content obscured by viewport protrusion | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault2/viewportOverflowWidth531.png) |
