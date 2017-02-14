@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Honey"
+elements: 460
+decs: 3249
+fullurl: www.joinhoney.com/install
+---
+| Report No. | Report Type | Distinct RLF No. | Viewport Range | Classification | Reason | Screenshot |
+| 228 | Viewport Protrusion| | 768px-789px | NOI | No content obscured by viewport protrusion | [Click]({{ site.baseurl }}/assets/images/Honey/fault1/viewportOverflowWidth778.png) |
+| 229 | Viewport Protrusion| | 992px-1009px | NOI | No content obscured by viewport protrusion | [Click]({{ site.baseurl }}/assets/images/Honey/fault2/viewportOverflowWidth1000.png) |
+| 230 | Element Protrusion| | 1200px-1200px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault3/overflow-Width1200.png) |
+| 231 | Element Protrusion| | 1001px-1199px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault4/overflow-Width1100.png) |
+| 232 | Element Protrusion| | 320px-1199px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault5/overflow-Width759.png) |
+| 233 | Element Protrusion| | 1200px-1200px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault6/overflow-Width1200.png) |
+| 234 | Element Protrusion| | 320px-325px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault7/overflow-Width322.png) |
+| 235 | Element Protrusion| | 566px-767px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault8/overflow-Width666.png) |
+| 236 | Element Protrusion| | 682px-767px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault9/overflow-Width724.png) |
+| 237 | Element Protrusion| | 320px-325px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/Honey/fault10/overflow-Width322.png) |
+| 238 | Small-Range| | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/Honey/fault11/smallrangeWidth1200.png) |
+| 239 | Small-Range| | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/Honey/fault12/smallrangeWidth1200.png) |
+| 240 | Small-Range| | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/Honey/fault13/smallrangeWidth1200.png) |

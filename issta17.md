@@ -6,7 +6,6 @@ permalink: /issta17/
 
 ## Distinct Responsive Layout Failures
 
-
 | RLF No. | Web Page | Type | Description | Screenshots |
 | 1 | 3-Minute-Journal | Viewport Protrusion | Graph protrudes outside viewport | [Bad]({{ site.baseurl }}/assets/good-bad/rlf1/bad.png)  [OK]({{ site.baseurl }}/assets/good-bad/rlf1/ok.png) [More]({{site.baseurl}}/2017/02/10/3-Minute-Journal.html)|
 | 2 | 3-Minute-Journal | Viewport Protrusion | Graph protrudes outside viewport again | [Bad]({{ site.baseurl }}/assets/good-bad/rlf2/bad.png)  [OK]({{ site.baseurl }}/assets/good-bad/rlf2/ok.png) [More]({{site.baseurl}}/2017/02/10/3-Minute-Journal.html)|

@@ -1,0 +1,36 @@
+---
+layout: post
+title: "PepFeed"
+elements: 342
+decs: 4563
+fullurl: www.pepfeed.com
+---
+| Report No. | Report Type | Distinct RLF No. | Viewport Range | Classification | Reason | Screenshot |
+| 262 | Viewport Protrusion| | 415px-768px | TP | Amazon logo obscured by viewport at narrower width than screenshot. | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault1/viewportOverflowWidth591.png) |
+| 263 | Viewport Protrusion| | 1025px-1080px | NOI | No content obscured by viewport protrusion | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault2/viewportOverflowWidth1052.png) |
+| 264 | Element Protrusion| | 768px-991px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault3/overflow-Width879.png) |
+| 265 | Element Collision| | 415px-546px | TP | Panels 1 and 2 clearly overlapping | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault4/overlapWidth480.png) |
+| 266 | Element Collision| | 415px-479px | NOI | No overlap of content, just DOM coordinates | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault5/overlapWidth447.png) |
+| 267 | Element Collision| | 320px-479px | NOI | No overlap of content, just DOM coordinates | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault6/overlapWidth399.png) |
+| 268 | Element Protrusion| | 768px-991px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault7/overflow-Width879.png) |
+| 269 | Element Collision| | 547px-700px | TP | Panels 1 and 3 clearly overlapping | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault8/overlapWidth623.png) |
+| 270 | Element Collision| | 769px-933px | TP | Panels 1 and 3 clearly overlapping | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault9/overlapWidth851.png) |
+| 271 | Element Collision| | 415px-415px | TP | Panels 2 and 3 clearly overlapping | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault10/overlapWidth415.png) |
+| 272 | Element Collision| | 934px-965px | NOI | No overlap of content, just DOM coordinates | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault11/overlapWidth949.png) |
+| 273 | Small-Range| | 480px-480px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault12/smallrangeWidth480.png) |
+| 274 | Small-Range| | 732px-736px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault13/smallrangeWidth734.png) |
+| 275 | Small-Range| | 598px-600px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault14/smallrangeWidth599.png) |
+| 276 | Small-Range| | 748px-750px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault15/smallrangeWidth749.png) |
+| 277 | Small-Range| | 1024px-1024px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault16/smallrangeWidth1024.png) |
+| 278 | Small-Range| | 992px-993px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault17/smallrangeWidth992.png) |
+| 279 | Small-Range| | 965px-965px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault18/smallrangeWidth965.png) |
+| 280 | Small-Range| | 480px-480px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault19/smallrangeWidth480.png) |
+| 281 | Small-Range| | 748px-750px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault20/smallrangeWidth749.png) |
+| 282 | Small-Range| | 598px-600px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault21/smallrangeWidth599.png) |
+| 283 | Small-Range| | 732px-736px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault22/smallrangeWidth734.png) |
+| 284 | Small-Range| | 769px-773px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault23/smallrangeWidth771.png) |
+| 285 | Small-Range| | 415px-415px | TP | Layout only true for 415px, so a TP. | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault24/smallrangeWidth415.png) |
+| 286 | Small-Range| | 1200px-1202px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault25/smallrangeWidth1201.png) |
+| 287 | Small-Range| | 415px-415px | TP | Layout only true for 415px, so a TP. | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault26/smallrangeWidth415.png) |
+| 288 | Small-Range| | 992px-993px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault27/smallrangeWidth992.png) |
+| 289 | Wrapping| | 320px-386px | TP | 'The Verge' has clearly wrapped onto a new line | [Click]({{ site.baseurl }}/assets/images/PepFeed/fault28/wrappingWidth353.png) |

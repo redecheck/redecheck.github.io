@@ -6,8 +6,8 @@
 </description>
     <link>http://redecheck.org/</link>
     <atom:link href="http://redecheck.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 16:22:52 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 16:22:52 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2017 11:45:38 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2017 11:45:38 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -18,41 +18,35 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;327&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;ZeroDollarMovies&lt;/td&gt;
       &lt;td&gt;481px-483px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;328&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;ZeroDollarMovies&lt;/td&gt;
       &lt;td&gt;481px-481px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/ZeroDollarMovies.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/ZeroDollarMovies.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/ZeroDollarMovies.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/ZeroDollarMovies.html</guid>
         
         
       </item>
@@ -65,63 +59,53 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;323&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WillMyPhoneWork&lt;/td&gt;
       &lt;td&gt;990px-991px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;No visible content overlap, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault1/overlapWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;324&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WillMyPhoneWork&lt;/td&gt;
       &lt;td&gt;992px-1199px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding from its parent&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;325&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WillMyPhoneWork&lt;/td&gt;
       &lt;td&gt;990px-991px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Elements are only overlapping for a couple of widths, so a TP&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault3/smallrangeWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;326&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WillMyPhoneWork&lt;/td&gt;
       &lt;td&gt;990px-991px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Alignment only true for a couple of widths, so a TP&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WillMyPhoneWork/fault4/smallrangeWidth990.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/WillMyPhoneWork.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/WillMyPhoneWork.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/WillMyPhoneWork.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/WillMyPhoneWork.html</guid>
         
         
       </item>
@@ -134,41 +118,35 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;321&lt;/td&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WhatShouldIReadNext&lt;/td&gt;
       &lt;td&gt;601px-611px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;322&lt;/td&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WhatShouldIReadNext&lt;/td&gt;
       &lt;td&gt;601px-611px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/WhatShouldIReadNext.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/WhatShouldIReadNext.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/WhatShouldIReadNext.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/WhatShouldIReadNext.html</guid>
         
         
       </item>
@@ -181,41 +159,35 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;319&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;UserSearch&lt;/td&gt;
       &lt;td&gt;802px-897px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No visible content overlap, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/UserSearch/fault1/overlapWidth849.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;320&lt;/td&gt;
       &lt;td&gt;Wrapping&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;UserSearch&lt;/td&gt;
       &lt;td&gt;625px-794px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Final navigation link clearly wrapped onto a new line&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/UserSearch/fault2/wrappingWidth709.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/UserSearch.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/UserSearch.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/UserSearch.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/UserSearch.html</guid>
         
         
       </item>
@@ -228,162 +200,134 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;306&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;785px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault1/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;307&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;765px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault2/overlapWidth854.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;308&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;509px-512px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault3/overflow-Width510.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;309&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;566px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault4/overflow-Width755.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;310&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;682px-688px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault5/overlapWidth685.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;311&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;785px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault6/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;312&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;549px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault7/overflow-Width746.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;313&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;785px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault8/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;314&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;785px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault9/overlapWidth864.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;315&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;681px-688px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault10/overlapWidth684.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;316&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;558px-944px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault11/overflow-Width751.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;317&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;689px-691px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault12/smallrangeWidth690.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;318&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TopDocumentary&lt;/td&gt;
       &lt;td&gt;593px-596px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/TopDocumentary/fault13/smallrangeWidth594.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/TopDocumentary.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/TopDocumentary.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/TopDocumentary.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/TopDocumentary.html</guid>
         
         
       </item>
@@ -396,41 +340,35 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;304&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;StumbleUpon&lt;/td&gt;
       &lt;td&gt;320px-439px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Element collision clearly causing undesirable layout&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/StumbleUpon/fault1/overlapWidth379.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;305&lt;/td&gt;
       &lt;td&gt;Wrapping&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;StumbleUpon&lt;/td&gt;
       &lt;td&gt;661px-840px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;Intentional layout change causes element to appear on separate row&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/StumbleUpon/fault2/wrappingWidth750.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/StumbleUpon.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/StumbleUpon.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/StumbleUpon.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/StumbleUpon.html</guid>
         
         
       </item>
@@ -443,85 +381,71 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;298&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;479px-479px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault1/smallrangeWidth479.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;299&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;480px-483px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault2/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;480px-480px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault3/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;301&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;481px-481px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault4/smallrangeWidth481.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;302&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;768px-772px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault5/smallrangeWidth770.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;303&lt;/td&gt;
       &lt;td&gt;Wrapping&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;RunPee&lt;/td&gt;
       &lt;td&gt;480px-681px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;Intentional layout change causes element to appear on separate row&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/RunPee/fault6/wrappingWidth580.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/RunPee.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/RunPee.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/RunPee.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/RunPee.html</guid>
         
         
       </item>
@@ -534,7 +458,6 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
@@ -543,9 +466,9 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/RainyMood.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/RainyMood.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/RainyMood.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/RainyMood.html</guid>
         
         
       </item>
@@ -558,107 +481,89 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;290&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;487px-767px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault1/overlapWidth627.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;291&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;487px-767px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault2/overlapWidth627.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;292&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;768px-900px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault3/overflow-Width834.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;293&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;877px-885px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault4/overflow-Width881.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;294&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;877px-885px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault5/overflow-Width881.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;295&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;768px-770px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault6/smallrangeWidth769.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;296&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;768px-768px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault7/smallrangeWidth768.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;297&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Pocket&lt;/td&gt;
       &lt;td&gt;768px-770px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/Pocket/fault8/smallrangeWidth769.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/Pocket.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/Pocket.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/Pocket.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/Pocket.html</guid>
         
         
       </item>
@@ -671,327 +576,269 @@
       &lt;td&gt;Report No.&lt;/td&gt;
       &lt;td&gt;Report Type&lt;/td&gt;
       &lt;td&gt;Distinct RLF No.&lt;/td&gt;
-      &lt;td&gt;Web Page&lt;/td&gt;
       &lt;td&gt;Viewport Range&lt;/td&gt;
       &lt;td&gt;Classification&lt;/td&gt;
       &lt;td&gt;Reason&lt;/td&gt;
       &lt;td&gt;Screenshot&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;262&lt;/td&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-768px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Amazon logo obscured by viewport at narrower width than screenshot.&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault1/viewportOverflowWidth591.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;263&lt;/td&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;1025px-1080px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault2/viewportOverflowWidth1052.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;264&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;768px-991px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault3/overflow-Width879.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;265&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-546px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 2 clearly overlapping&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault4/overlapWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;266&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-479px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault5/overlapWidth447.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;267&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;320px-479px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault6/overlapWidth399.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;268&lt;/td&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;768px-991px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault7/overflow-Width879.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;269&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;547px-700px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 3 clearly overlapping&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault8/overlapWidth623.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;270&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;769px-933px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 1 and 3 clearly overlapping&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault9/overlapWidth851.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;271&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-415px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Panels 2 and 3 clearly overlapping&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault10/overlapWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;272&lt;/td&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;934px-965px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No overlap of content, just DOM coordinates&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault11/overlapWidth949.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;273&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;480px-480px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault12/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;274&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;732px-736px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault13/smallrangeWidth734.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;275&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;598px-600px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault14/smallrangeWidth599.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;276&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;748px-750px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault15/smallrangeWidth749.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;277&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;1024px-1024px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault16/smallrangeWidth1024.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;278&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;992px-993px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault17/smallrangeWidth992.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;279&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;965px-965px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault18/smallrangeWidth965.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;280&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;480px-480px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault19/smallrangeWidth480.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;281&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;748px-750px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault20/smallrangeWidth749.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;282&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;598px-600px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault21/smallrangeWidth599.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;283&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;732px-736px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault22/smallrangeWidth734.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;284&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;769px-773px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault23/smallrangeWidth771.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;285&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-415px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Layout only true for 415px, so a TP.&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault24/smallrangeWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;286&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;1200px-1202px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault25/smallrangeWidth1201.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;287&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;415px-415px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;Layout only true for 415px, so a TP.&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault26/smallrangeWidth415.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;288&lt;/td&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;992px-993px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault27/smallrangeWidth992.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;289&lt;/td&gt;
       &lt;td&gt;Wrapping&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;PepFeed&lt;/td&gt;
       &lt;td&gt;320px-386px&lt;/td&gt;
       &lt;td&gt;TP&lt;/td&gt;
       &lt;td&gt;‘The Verge’ has clearly wrapped onto a new line&lt;/td&gt;
       &lt;td&gt;&lt;a href=&quot;/assets/images/PepFeed/fault28/wrappingWidth353.png&quot;&gt;Click&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/13/PepFeed.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/13/PepFeed.html</guid>
+        <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org/2017/02/14/PepFeed.html</link>
+        <guid isPermaLink="true">http://redecheck.org/2017/02/14/PepFeed.html</guid>
         
         
       </item>
