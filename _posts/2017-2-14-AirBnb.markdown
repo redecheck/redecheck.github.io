@@ -26,5 +26,5 @@ fullurl: www.airbnb.com
 | 175 | Element Protrusion| | 320px-743px | NOI | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault9/overflow-Width531.png) |
 | 176 | Small-Range| | 1199px-1199px | FP | Element is not visibly protruding | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault10/smallrangeWidth1199.png) |
 | 177 | Small-Range| | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault11/smallrangeWidth1200.png) |
-| 178 | Wrapping| | 321px-335px | TP | 'Terms and Privacy' clearly wrapped onto new row | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault12/wrappingWidth328.png) |
-| 179 | Wrapping| | 326px-356px | TP | Instagram logo clearly wrapped onto new row | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault13/wrappingWidth341.png) |
+| 178 | Wrapping| 6 | 321px-335px | TP | 'Terms and Privacy' clearly wrapped onto new row | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault12/wrappingWidth328.png) |
+| 179 | Wrapping| 7 | 326px-356px | TP | Instagram logo clearly wrapped onto new row | [Click]({{ site.baseurl }}/assets/images/AirBnb/fault13/wrappingWidth341.png) |
