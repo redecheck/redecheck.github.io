@@ -15,7 +15,7 @@ permalink: /results-archive/
 | Element Collision| 5 | PepFeed | 769px-933px | TP | Panels 1 and 3 clearly overlapping | [Click]({{ site.baseurl }}/2017/02/15/PepFeed-fault-9.html) |
 | Element Collision| 6 | PepFeed | 415px-415px | TP | Panels 2 and 3 clearly overlapping | [Click]({{ site.baseurl }}/2017/02/15/PepFeed-fault-10.html) |
 | Element Collision| 7 | StumbleUpon | 320px-439px | TP | Element collision clearly causing undesirable layout | [Click]({{ site.baseurl }}/2017/02/15/StumbleUpon-fault-1.html) |
-| Element Collision| 8 | WillMyPhoneWork | 990px-991px | TP | No visible content overlap, just DOM coordinates | [Click]({{ site.baseurl }}/2017/02/15/WillMyPhoneWork-fault-1.html) |
+| Element Collision| 8 | WillMyPhoneWork | 990px-991px | TP | Header and main content clearly overlapping | [Click]({{ site.baseurl }}/2017/02/15/WillMyPhoneWork-fault-1.html) |
 | Element Protrusion| 9 | BugMeNot | 403px-678px | TP | Form is clearly protruding out of the page's header. | [Click]({{ site.baseurl }}/2017/02/15/BugMeNot-fault-4.html) |
 | Element Protrusion| 10 | Consumer-Reports | 392px-767px | TP | Text has clearly protruding outside its container | [Click]({{ site.baseurl }}/2017/02/15/Consumer-Reports-fault-14.html) |
 | Element Protrusion| 11 | Pdf-Escape | 801px-805px | TP | Navigation links have clearly protruded outside the navbar and become invisible and unclickable | [Click]({{ site.baseurl }}/2017/02/15/Pdf-Escape-fault-8.html) |
