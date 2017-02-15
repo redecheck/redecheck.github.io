@@ -13,12 +13,12 @@ Some tiles shift location for 476px-480px. While not strictly 'bad' in terms of 
 
 At 475px, the tiles are laid out in two columns:
 
-![475px]({{ site.baseurl }}/assets/good-bad/rlf3/475.png){: .center-image}
+![475px]({{ site.baseurl }}/assets/good-bad/rlf23/475.png){: .center-image}
 
 But from 476-480px, they shift into a three column layout:
 
-![478px]({{ site.baseurl }}/assets/good-bad/rlf3/478.png){: .center-image}
+![478px]({{ site.baseurl }}/assets/good-bad/rlf23/478.png){: .center-image}
 
 Then, at 481px, it reverts to a two column layout:
 
-![481px]({{ site.baseurl }}/assets/good-bad/rlf3/481.png){: .center-image}
+![481px]({{ site.baseurl }}/assets/good-bad/rlf23/481.png){: .center-image}
