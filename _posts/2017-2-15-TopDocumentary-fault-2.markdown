@@ -1,0 +1,8 @@
+---
+layout: post
+title: "TopDocumentary Fault 2"
+---
+| **Report Type** | **Distinct RLF No.** | **Viewport Range** | **Classification** | **Reason** |
+| Element Collision| null | 765px-944px | NOI | No overlap of content, just DOM coordinates | 
+
+![Screenshot of the fault]({{ site.baseurl }}/assets/images/TopDocumentary/fault2/overlapWidth854.png){: .center-image }

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "TopDocumentary Fault 4"
+---
+| **Report Type** | **Distinct RLF No.** | **Viewport Range** | **Classification** | **Reason** |
+| Element Protrusion| null | 566px-944px | NOI | Element is not visibly protruding | 
+
+![Screenshot of the fault]({{ site.baseurl }}/assets/images/TopDocumentary/fault4/overflow-Width755.png){: .center-image }
