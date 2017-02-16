@@ -16,5 +16,5 @@ Given that the failure manifests on a reasonable number of viewport widths inclu
 At 476px, all is well with the layout:
 ![476px]({{ site.baseurl }}/assets/good-bad/rlf7/476.png){: .center-image}
 
-However, an narrow viewport widths such as 395px, an overlap occurs
+However, an narrow viewport widths such as 395px, an overlap occurs, causing the undesirable layout:
 ![395px]({{ site.baseurl }}/assets/good-bad/rlf7/395.png){: .center-image}
