@@ -1,8 +1,0 @@
----
-layout: post
-title: "Consumer-Reports Fault 3"
----
-| **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
-| Viewport Protrusion|  | 768px-782px | NOI | No content obscured by viewport protrusion, so just an NOI | 
-
-![Screenshot of the fault]({{ site.baseurl }}/assets/images/Consumer-Reports/fault3/viewportOverflowWidth775.png){: .center-image }

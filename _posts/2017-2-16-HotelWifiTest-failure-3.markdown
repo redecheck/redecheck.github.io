@@ -1,0 +1,8 @@
+---
+layout: post
+title: "HotelWifiTest Failure 3"
+---
+| **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
+| Small-Range|  | 769px-769px | FP | No significant layout change, just coincidental labelling | 
+
+![Screenshot of the fault]({{ site.baseurl }}/assets/images/HotelWifiTest/fault3/smallrangeWidth769.png){: .center-image }
