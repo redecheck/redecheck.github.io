@@ -2,7 +2,7 @@
 layout: post
 title: "3-Minute-Journal Fault 12"
 ---
-| **Report Type** | **Distinct RLF No.** | **Viewport Range** | **Classification** | **Reason** |
+| **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Small-Range|  | 764px-767px | FP | No significant layout change, just coincidental labelling | 
 
 ![Screenshot of the fault]({{ site.baseurl }}/assets/images/3-Minute-Journal/fault12/smallrangeWidth765.png){: .center-image }

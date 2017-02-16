@@ -34,7 +34,7 @@ Exploring the results archive is straight-forward. The individual failure report
 | Viewport Protrusion| 14 | BugMeNot | 320px-353px | TP | Part of input box obscured by viewport protrusion, so a TP | [Click]({{ site.baseurl }}/2017/02/16/BugMeNot-fault-1.html) |
 | Viewport Protrusion| 15 | BugMeNot | 320px-340px | TP | Part of input box obscured by viewport protrusion, so a TP | [Click]({{ site.baseurl }}/2017/02/16/BugMeNot-fault-2.html) |
 | Viewport Protrusion| 16 | Consumer-Reports | 320px-365px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-4.html) |
-| Viewport Protrusion| 18 | Consumer-Reports | 1025px-1110px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-5.html) |
+| Viewport Protrusion| 17 | Consumer-Reports | 1025px-1110px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-5.html) |
 | Viewport Protrusion| 18 | Consumer-Reports | 768px-1039px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-6.html) |
 | Viewport Protrusion| 16 | Consumer-Reports | 320px-377px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-7.html) |
 | Viewport Protrusion| 16 | Consumer-Reports | 320px-375px | TP | Element clearly protruding outside of the viewport | [Click]({{ site.baseurl }}/2017/02/16/Consumer-Reports-fault-8.html) |
