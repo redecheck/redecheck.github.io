@@ -6,3 +6,18 @@ title: "Covered-Calendar Failure 5"
 | Wrapping| 30 | 768px-979px | TP | Header navigation link clearly wraps onto a new line | 
 
 ![Screenshot of the fault]({{ site.baseurl }}/assets/images/Covered-Calendar/fault5/wrappingWidth873.png){: .center-image }
+
+## About Distinct RLF 30
+
+The "Pricing" navigation link in the header bar wraps onto a new line as the viewport becomes narrow. Given the failure manifests right at the top of the webpage, it should be a high-priority fix for the developer to ensure the issue does not negatively influence visitors to the site. To resolve, the developer could alter the media query toggling the layout between mobile and non-mobile versions, or modify the specific CSS rules for the desktop layout.
+
+The issue manifests on many viewport widths and is located at the top of the web page. Therefore, a manual testing procedure would likely detect it with relative ease. Despite this, the issue is still present on the live version of the site, [here](https://www.coveredcalendar.com/).
+
+At mobile widths, the navigation links are collapsed to a drop-down menu:
+![Mobile]({{ site.baseurl }}/assets/good-bad/rlf30/mobile.png){: .center-image}
+
+Here is the failure manifesting:
+![Bad]({{ site.baseurl }}/assets/good-bad/rlf30/bad.png){: .center-image}
+
+Here is the page once the viewport is wide enough to show all elements in a single row:
+![OK]({{ site.baseurl }}/assets/good-bad/rlf30/ok.png){: .center-image}
