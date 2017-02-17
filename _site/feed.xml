@@ -6,8 +6,8 @@
 </description>
     <link>http://redecheck.org/</link>
     <atom:link href="http://redecheck.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 14:29:37 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 14:29:37 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Feb 2017 14:59:26 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2017 14:59:26 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -311,6 +311,18 @@
 &lt;/table&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/UserSearch/fault2/wrappingWidth709.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-distinct-rlf-33&quot;&gt;About Distinct RLF 33&lt;/h2&gt;
+
+&lt;p&gt;The navigation links wrap incongruously onto different lines as the viewport becomes narrow. While clearly not a major issue, it is something the developer may want to address nonetheless as makes the page appear significantly less professional, as many people now expect a mobile-ready “drop-down” menu rather than a desktop menu which has wrapped.&lt;/p&gt;
+
+&lt;p&gt;The issue manifests on many device viewport widths and is part of the page’s main content, so a manual testing procedure should be able to detect it easily. Despite this, the issue is still present on the live version of the site, &lt;a href=&quot;https://usersearch.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is the failure manifesting:
+&lt;img src=&quot;/assets/good-bad/rlf33/bad.png&quot; alt=&quot;Bad&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is the page once the viewport is wide enough to show all elements in a single row:
+&lt;img src=&quot;/assets/good-bad/rlf33/ok.png&quot; alt=&quot;OK&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org/2017/02/17/UserSearch-failure-2.html</link>
