@@ -6,8 +6,8 @@
 </description>
     <link>http://redecheck.org//</link>
     <atom:link href="http://redecheck.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2017 11:55:24 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 11:55:24 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2017 13:37:55 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 13:37:55 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,14 +16,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
-      &lt;td&gt;null&lt;/td&gt;
       &lt;td&gt;481px-481px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
@@ -46,14 +44,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Small-Range&lt;/td&gt;
-      &lt;td&gt;null&lt;/td&gt;
       &lt;td&gt;481px-483px&lt;/td&gt;
       &lt;td&gt;FP&lt;/td&gt;
       &lt;td&gt;No significant layout change, just coincidental attribute labelling&lt;/td&gt;
@@ -162,14 +158,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Element Protrusion&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt;992px-1199px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;Element is not visibly protruding from its parent&lt;/td&gt;
@@ -235,14 +229,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
-      &lt;td&gt;null&lt;/td&gt;
       &lt;td&gt;601px-611px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
@@ -265,14 +257,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Viewport Protrusion&lt;/td&gt;
-      &lt;td&gt;null&lt;/td&gt;
       &lt;td&gt;601px-611px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No content obscured by viewport protrusion, so just an NOI&lt;/td&gt;
@@ -337,14 +327,12 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Report Type&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Distinct RLF&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Viewport Range&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Classification&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;Reason&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Element Collision&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt;802px-897px&lt;/td&gt;
       &lt;td&gt;NOI&lt;/td&gt;
       &lt;td&gt;No visible content overlap, just DOM coordinates&lt;/td&gt;

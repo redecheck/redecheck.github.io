@@ -30,7 +30,7 @@ The different failure types are highlighted in different ways to make them as ea
 
 ### True Positives### {#TP}
 
-| Report Type | Distinct RLF | Web Page | Viewport Range | Classification | Reason |
+| **Report Type** | **Distinct RLF** | **Web Page** | **Viewport Range** | **Classification** | **Reason** |
 | Element Collision| 1 | CloudConvert | 980px-980px | TP | Header and main content panel clearly overlapping, obscuring the banner [Screenshot and Detailed Information](../2017/02/20/CloudConvert-failure-1.html) |
 | Element Collision| 2 | MidwayMeetup | 768px-1132px | TP | Form is clearly overlapping with the main panel, and button is unclickable [Screenshot and Detailed Information](../2017/02/20/MidwayMeetup-failure-2.html) |
 | Element Collision| 3 | PepFeed | 415px-546px | TP | Panels 1 and 2 clearly overlapping [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-4.html) |
@@ -231,139 +231,139 @@ The different failure types are highlighted in different ways to make them as ea
 
 ### False Positives### {#FP}
 
-| Report Type | Distinct RLF | Web Page | Viewport Range | Classification | Reason |
-| Small-Range|  | 3-Minute-Journal | 764px-767px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-12.html) |
-| Small-Range|  | AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-53.html) |
-| Small-Range|  | AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-60.html) |
-| Small-Range|  | AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-69.html) |
-| Small-Range|  | AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-122.html) |
-| Small-Range|  | AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-144.html) |
-| Small-Range|  | AirBnb | 1199px-1199px | FP | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-10.html) |
-| Small-Range|  | AirBnb | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-11.html) |
-| Small-Range|  | Consumer-Reports | 768px-770px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-24.html) |
-| Small-Range|  | Duolingo | 378px-380px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-6.html) |
-| Small-Range| null | Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-11.html) |
-| Small-Range| null | Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-12.html) |
-| Small-Range| null | Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-13.html) |
-| Small-Range|  | HotelWifiTest | 992px-992px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/HotelWifiTest-failure-2.html) |
-| Small-Range|  | HotelWifiTest | 769px-769px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/HotelWifiTest-failure-3.html) |
-| Small-Range| null | Mailinator | 499px-502px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-2.html) |
-| Small-Range| null | Mailinator | 499px-502px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-3.html) |
-| Small-Range|  | PepFeed | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-12.html) |
-| Small-Range|  | PepFeed | 732px-736px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-13.html) |
-| Small-Range|  | PepFeed | 598px-600px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-14.html) |
-| Small-Range|  | PepFeed | 748px-750px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-15.html) |
-| Small-Range|  | PepFeed | 1024px-1024px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-16.html) |
-| Small-Range|  | PepFeed | 992px-993px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-17.html) |
-| Small-Range|  | PepFeed | 965px-965px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-18.html) |
-| Small-Range|  | PepFeed | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-19.html) |
-| Small-Range|  | PepFeed | 748px-750px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-20.html) |
-| Small-Range|  | PepFeed | 598px-600px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-21.html) |
-| Small-Range|  | PepFeed | 732px-736px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-22.html) |
-| Small-Range|  | PepFeed | 769px-773px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-23.html) |
-| Small-Range|  | PepFeed | 1200px-1202px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-25.html) |
-| Small-Range|  | PepFeed | 992px-993px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-27.html) |
-| Small-Range| null | Pocket | 768px-770px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-6.html) |
-| Small-Range| null | Pocket | 768px-768px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-7.html) |
-| Small-Range| null | Pocket | 768px-770px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-8.html) |
-| Small-Range| null | RunPee | 479px-479px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-1.html) |
-| Small-Range| null | RunPee | 480px-483px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-2.html) |
-| Small-Range| null | RunPee | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-3.html) |
-| Small-Range| null | RunPee | 481px-481px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-4.html) |
-| Small-Range| null | RunPee | 768px-772px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-5.html) |
-| Small-Range| null | TopDocumentary | 689px-691px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-12.html) |
-| Small-Range| null | TopDocumentary | 593px-596px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-13.html) |
-| Small-Range| null | ZeroDollarMovies | 481px-483px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/ZeroDollarMovies-failure-1.html) |
-| Small-Range| null | ZeroDollarMovies | 481px-481px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/ZeroDollarMovies-failure-2.html) |
-| Wrapping|  | Duolingo | 378px-399px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-7.html) |
-| Wrapping|  | Duolingo | 830px-881px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-8.html) |
-| Wrapping|  | Ninite | 410px-614px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/Ninite-failure-1.html) |
-| Wrapping| null | RunPee | 480px-681px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-6.html) |
-| Wrapping|  | StumbleUpon | 661px-840px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/StumbleUpon-failure-2.html) |
+| **Report Type** | **Web Page** | **Viewport Range** | **Classification** | **Reason** |
+| Small-Range| 3-Minute-Journal | 764px-767px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-12.html) |
+| Small-Range| AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-53.html) |
+| Small-Range| AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-60.html) |
+| Small-Range| AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-69.html) |
+| Small-Range| AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-122.html) |
+| Small-Range| AccountKiller | 800px-803px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AccountKiller-failure-144.html) |
+| Small-Range| AirBnb | 1199px-1199px | FP | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-10.html) |
+| Small-Range| AirBnb | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-11.html) |
+| Small-Range| Consumer-Reports | 768px-770px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-24.html) |
+| Small-Range| Duolingo | 378px-380px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-6.html) |
+| Small-Range| Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-11.html) |
+| Small-Range| Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-12.html) |
+| Small-Range| Honey | 1200px-1200px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Honey-failure-13.html) |
+| Small-Range| HotelWifiTest | 992px-992px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/HotelWifiTest-failure-2.html) |
+| Small-Range| HotelWifiTest | 769px-769px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/HotelWifiTest-failure-3.html) |
+| Small-Range| Mailinator | 499px-502px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-2.html) |
+| Small-Range| Mailinator | 499px-502px | FP | No significant layout change, just coincidental labelling [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-3.html) |
+| Small-Range| PepFeed | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-12.html) |
+| Small-Range| PepFeed | 732px-736px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-13.html) |
+| Small-Range| PepFeed | 598px-600px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-14.html) |
+| Small-Range| PepFeed | 748px-750px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-15.html) |
+| Small-Range| PepFeed | 1024px-1024px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-16.html) |
+| Small-Range| PepFeed | 992px-993px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-17.html) |
+| Small-Range| PepFeed | 965px-965px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-18.html) |
+| Small-Range| PepFeed | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-19.html) |
+| Small-Range| PepFeed | 748px-750px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-20.html) |
+| Small-Range| PepFeed | 598px-600px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-21.html) |
+| Small-Range| PepFeed | 732px-736px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-22.html) |
+| Small-Range| PepFeed | 769px-773px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-23.html) |
+| Small-Range| PepFeed | 1200px-1202px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-25.html) |
+| Small-Range| PepFeed | 992px-993px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-27.html) |
+| Small-Range| Pocket | 768px-770px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-6.html) |
+| Small-Range| Pocket | 768px-768px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-7.html) |
+| Small-Range| Pocket | 768px-770px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-8.html) |
+| Small-Range| RunPee | 479px-479px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-1.html) |
+| Small-Range| RunPee | 480px-483px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-2.html) |
+| Small-Range| RunPee | 480px-480px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-3.html) |
+| Small-Range| RunPee | 481px-481px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-4.html) |
+| Small-Range| RunPee | 768px-772px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-5.html) |
+| Small-Range| TopDocumentary | 689px-691px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-12.html) |
+| Small-Range| TopDocumentary | 593px-596px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-13.html) |
+| Small-Range| ZeroDollarMovies | 481px-483px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/ZeroDollarMovies-failure-1.html) |
+| Small-Range| ZeroDollarMovies | 481px-481px | FP | No significant layout change, just coincidental attribute labelling [Screenshot and Detailed Information](../2017/02/20/ZeroDollarMovies-failure-2.html) |
+| Wrapping| Duolingo | 378px-399px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-7.html) |
+| Wrapping| Duolingo | 830px-881px | FP | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-8.html) |
+| Wrapping| Ninite | 410px-614px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/Ninite-failure-1.html) |
+| Wrapping| RunPee | 480px-681px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/RunPee-failure-6.html) |
+| Wrapping| StumbleUpon | 661px-840px | FP | Intentional layout change causes element to appear on separate row [Screenshot and Detailed Information](../2017/02/20/StumbleUpon-failure-2.html) |
 
 ### Non-Observable Issues### {#NOI}
 
-| Report Type | Distinct RLF | Web Page | Viewport Range | Classification | Reason |
-| Element Collision|  | 3-Minute-Journal | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-9.html) |
-| Element Collision|  | AirBnb | 744px-1127px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-5.html) |
-| Element Collision|  | Consumer-Reports | 336px-767px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-15.html) |
-| Element Collision|  | Consumer-Reports | 320px-384px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-16.html) |
-| Element Collision|  | Consumer-Reports | 648px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-18.html) |
-| Element Collision|  | Consumer-Reports | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-20.html) |
-| Element Collision|  | Consumer-Reports | 691px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-21.html) |
-| Element Collision|  | Consumer-Reports | 329px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-22.html) |
-| Element Collision|  | Consumer-Reports | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-23.html) |
-| Element Collision|  | Duolingo | 320px-980px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-5.html) |
-| Element Collision| null | Mailinator | 992px-1199px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-1.html) |
-| Element Collision|  | PepFeed | 415px-479px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-5.html) |
-| Element Collision|  | PepFeed | 320px-479px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-6.html) |
-| Element Collision|  | PepFeed | 934px-965px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-11.html) |
-| Element Collision| null | Pocket | 487px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-1.html) |
-| Element Collision| null | Pocket | 487px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-2.html) |
-| Element Collision| null | TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-1.html) |
-| Element Collision| null | TopDocumentary | 765px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-2.html) |
-| Element Collision| null | TopDocumentary | 682px-688px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-5.html) |
-| Element Collision| null | TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-6.html) |
-| Element Collision| null | TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-8.html) |
-| Element Collision| null | TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-9.html) |
-| Element Collision| null | TopDocumentary | 681px-688px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-10.html) |
-| Element Collision|  | UserSearch | 802px-897px | NOI | No visible content overlap, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/UserSearch-failure-1.html) |
-| Element Protrusion|  | 3-Minute-Journal | 438px-449px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-10.html) |
-| Element Protrusion|  | 3-Minute-Journal | 992px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-11.html) |
-| Element Protrusion|  | AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-6.html) |
-| Element Protrusion|  | AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-7.html) |
-| Element Protrusion|  | AirBnb | 744px-768px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-8.html) |
-| Element Protrusion|  | AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-9.html) |
-| Element Protrusion|  | BugMeNot | 335px-529px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-3.html) |
-| Element Protrusion|  | BugMeNot | 320px-420px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-5.html) |
-| Element Protrusion|  | BugMeNot | 320px-334px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-6.html) |
-| Element Protrusion|  | Consumer-Reports | 771px-1180px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-13.html) |
-| Element Protrusion|  | Consumer-Reports | 771px-1180px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-17.html) |
-| Element Protrusion|  | Consumer-Reports | 320px-767px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-19.html) |
-| Element Protrusion| null | Honey | 1200px-1200px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-3.html) |
-| Element Protrusion| null | Honey | 1001px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-4.html) |
-| Element Protrusion| null | Honey | 320px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-5.html) |
-| Element Protrusion| null | Honey | 1200px-1200px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-6.html) |
-| Element Protrusion| null | Honey | 320px-325px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-7.html) |
-| Element Protrusion| null | Honey | 566px-767px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-8.html) |
-| Element Protrusion| null | Honey | 682px-767px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-9.html) |
-| Element Protrusion| null | Honey | 320px-325px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-10.html) |
-| Element Protrusion|  | MidwayMeetup | 768px-1024px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/MidwayMeetup-failure-3.html) |
-| Element Protrusion|  | Pdf-Escape | 843px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-5.html) |
-| Element Protrusion|  | Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-6.html) |
-| Element Protrusion|  | Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-7.html) |
-| Element Protrusion|  | Pdf-Escape | 320px-479px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-9.html) |
-| Element Protrusion|  | Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-10.html) |
-| Element Protrusion|  | PepFeed | 768px-991px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-3.html) |
-| Element Protrusion|  | PepFeed | 768px-991px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-7.html) |
-| Element Protrusion| null | Pocket | 768px-900px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-3.html) |
-| Element Protrusion| null | Pocket | 877px-885px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-4.html) |
-| Element Protrusion| null | Pocket | 877px-885px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-5.html) |
-| Element Protrusion| null | TopDocumentary | 509px-512px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-3.html) |
-| Element Protrusion| null | TopDocumentary | 566px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-4.html) |
-| Element Protrusion| null | TopDocumentary | 549px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-7.html) |
-| Element Protrusion| null | TopDocumentary | 558px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-11.html) |
-| Element Protrusion|  | WillMyPhoneWork | 992px-1199px | NOI | Element is not visibly protruding from its parent [Screenshot and Detailed Information](../2017/02/20/WillMyPhoneWork-failure-2.html) |
-| Viewport Protrusion|  | AirBnb | 320px-743px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-1.html) |
-| Viewport Protrusion|  | AirBnb | 320px-743px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-2.html) |
-| Viewport Protrusion|  | AirBnb | 320px-710px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-3.html) |
-| Viewport Protrusion|  | AirBnb | 744px-1073px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-4.html) |
-| Viewport Protrusion|  | Consumer-Reports | 768px-782px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-1.html) |
-| Viewport Protrusion|  | Consumer-Reports | 1200px-1400px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-2.html) |
-| Viewport Protrusion|  | Consumer-Reports | 768px-782px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-3.html) |
-| Viewport Protrusion|  | Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-1.html) |
-| Viewport Protrusion|  | Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-2.html) |
-| Viewport Protrusion|  | Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-3.html) |
-| Viewport Protrusion| null | Days-Old | 320px-340px | NOI | No visible protrusion outside the viewport [Screenshot and Detailed Information](../2017/02/20/Days-Old-failure-1.html) |
-| Viewport Protrusion| null | Dictation | 320px-480px | NOI | No visible protrusion outside the viewport [Screenshot and Detailed Information](../2017/02/20/Dictation-failure-1.html) |
-| Viewport Protrusion|  | Duolingo | 981px-1276px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-2.html) |
-| Viewport Protrusion|  | Duolingo | 981px-1267px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-4.html) |
-| Viewport Protrusion| null | Honey | 768px-789px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Honey-failure-1.html) |
-| Viewport Protrusion| null | Honey | 992px-1009px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Honey-failure-2.html) |
-| Viewport Protrusion|  | MidwayMeetup | 320px-535px | NOI | No visible protrusion of element outside the viewport [Screenshot and Detailed Information](../2017/02/20/MidwayMeetup-failure-1.html) |
-| Viewport Protrusion|  | Pdf-Escape | 320px-800px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-1.html) |
-| Viewport Protrusion|  | Pdf-Escape | 768px-780px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-2.html) |
-| Viewport Protrusion|  | Pdf-Escape | 960px-972px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-3.html) |
-| Viewport Protrusion|  | PepFeed | 1025px-1080px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-2.html) |
-| Viewport Protrusion| null | WhatShouldIReadNext | 601px-611px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/WhatShouldIReadNext-failure-1.html) |
-| Viewport Protrusion| null | WhatShouldIReadNext | 601px-611px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/WhatShouldIReadNext-failure-2.html) |
+| **Report Type** | **Web Page** | **Viewport Range** | **Classification** | **Reason** |
+| Element Collision| 3-Minute-Journal | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-9.html) |
+| Element Collision| AirBnb | 744px-1127px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-5.html) |
+| Element Collision| Consumer-Reports | 336px-767px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-15.html) |
+| Element Collision| Consumer-Reports | 320px-384px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-16.html) |
+| Element Collision| Consumer-Reports | 648px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-18.html) |
+| Element Collision| Consumer-Reports | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-20.html) |
+| Element Collision| Consumer-Reports | 691px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-21.html) |
+| Element Collision| Consumer-Reports | 329px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-22.html) |
+| Element Collision| Consumer-Reports | 320px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-23.html) |
+| Element Collision| Duolingo | 320px-980px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-5.html) |
+| Element Collision| Mailinator | 992px-1199px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Mailinator-failure-1.html) |
+| Element Collision| PepFeed | 415px-479px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-5.html) |
+| Element Collision| PepFeed | 320px-479px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-6.html) |
+| Element Collision| PepFeed | 934px-965px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-11.html) |
+| Element Collision| Pocket | 487px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-1.html) |
+| Element Collision| Pocket | 487px-767px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-2.html) |
+| Element Collision| TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-1.html) |
+| Element Collision| TopDocumentary | 765px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-2.html) |
+| Element Collision| TopDocumentary | 682px-688px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-5.html) |
+| Element Collision| TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-6.html) |
+| Element Collision| TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-8.html) |
+| Element Collision| TopDocumentary | 785px-944px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-9.html) |
+| Element Collision| TopDocumentary | 681px-688px | NOI | No overlap of content, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-10.html) |
+| Element Collision| UserSearch | 802px-897px | NOI | No visible content overlap, just DOM coordinates [Screenshot and Detailed Information](../2017/02/20/UserSearch-failure-1.html) |
+| Element Protrusion| 3-Minute-Journal | 438px-449px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-10.html) |
+| Element Protrusion| 3-Minute-Journal | 992px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/3-Minute-Journal-failure-11.html) |
+| Element Protrusion| AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-6.html) |
+| Element Protrusion| AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-7.html) |
+| Element Protrusion| AirBnb | 744px-768px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-8.html) |
+| Element Protrusion| AirBnb | 320px-743px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-9.html) |
+| Element Protrusion| BugMeNot | 335px-529px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-3.html) |
+| Element Protrusion| BugMeNot | 320px-420px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-5.html) |
+| Element Protrusion| BugMeNot | 320px-334px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/BugMeNot-failure-6.html) |
+| Element Protrusion| Consumer-Reports | 771px-1180px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-13.html) |
+| Element Protrusion| Consumer-Reports | 771px-1180px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-17.html) |
+| Element Protrusion| Consumer-Reports | 320px-767px | NOI | Element is not visible protruding [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-19.html) |
+| Element Protrusion| Honey | 1200px-1200px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-3.html) |
+| Element Protrusion| Honey | 1001px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-4.html) |
+| Element Protrusion| Honey | 320px-1199px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-5.html) |
+| Element Protrusion| Honey | 1200px-1200px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-6.html) |
+| Element Protrusion| Honey | 320px-325px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-7.html) |
+| Element Protrusion| Honey | 566px-767px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-8.html) |
+| Element Protrusion| Honey | 682px-767px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-9.html) |
+| Element Protrusion| Honey | 320px-325px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Honey-failure-10.html) |
+| Element Protrusion| MidwayMeetup | 768px-1024px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/MidwayMeetup-failure-3.html) |
+| Element Protrusion| Pdf-Escape | 843px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-5.html) |
+| Element Protrusion| Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-6.html) |
+| Element Protrusion| Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-7.html) |
+| Element Protrusion| Pdf-Escape | 320px-479px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-9.html) |
+| Element Protrusion| Pdf-Escape | 768px-959px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-10.html) |
+| Element Protrusion| PepFeed | 768px-991px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-3.html) |
+| Element Protrusion| PepFeed | 768px-991px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-7.html) |
+| Element Protrusion| Pocket | 768px-900px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-3.html) |
+| Element Protrusion| Pocket | 877px-885px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-4.html) |
+| Element Protrusion| Pocket | 877px-885px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/Pocket-failure-5.html) |
+| Element Protrusion| TopDocumentary | 509px-512px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-3.html) |
+| Element Protrusion| TopDocumentary | 566px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-4.html) |
+| Element Protrusion| TopDocumentary | 549px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-7.html) |
+| Element Protrusion| TopDocumentary | 558px-944px | NOI | Element is not visibly protruding [Screenshot and Detailed Information](../2017/02/20/TopDocumentary-failure-11.html) |
+| Element Protrusion| WillMyPhoneWork | 992px-1199px | NOI | Element is not visibly protruding from its parent [Screenshot and Detailed Information](../2017/02/20/WillMyPhoneWork-failure-2.html) |
+| Viewport Protrusion| AirBnb | 320px-743px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-1.html) |
+| Viewport Protrusion| AirBnb | 320px-743px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-2.html) |
+| Viewport Protrusion| AirBnb | 320px-710px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-3.html) |
+| Viewport Protrusion| AirBnb | 744px-1073px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/AirBnb-failure-4.html) |
+| Viewport Protrusion| Consumer-Reports | 768px-782px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-1.html) |
+| Viewport Protrusion| Consumer-Reports | 1200px-1400px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-2.html) |
+| Viewport Protrusion| Consumer-Reports | 768px-782px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Consumer-Reports-failure-3.html) |
+| Viewport Protrusion| Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-1.html) |
+| Viewport Protrusion| Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-2.html) |
+| Viewport Protrusion| Covered-Calendar | 1200px-1240px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/Covered-Calendar-failure-3.html) |
+| Viewport Protrusion| Days-Old | 320px-340px | NOI | No visible protrusion outside the viewport [Screenshot and Detailed Information](../2017/02/20/Days-Old-failure-1.html) |
+| Viewport Protrusion| Dictation | 320px-480px | NOI | No visible protrusion outside the viewport [Screenshot and Detailed Information](../2017/02/20/Dictation-failure-1.html) |
+| Viewport Protrusion| Duolingo | 981px-1276px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-2.html) |
+| Viewport Protrusion| Duolingo | 981px-1267px | NOI | null [Screenshot and Detailed Information](../2017/02/20/Duolingo-failure-4.html) |
+| Viewport Protrusion| Honey | 768px-789px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Honey-failure-1.html) |
+| Viewport Protrusion| Honey | 992px-1009px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Honey-failure-2.html) |
+| Viewport Protrusion| MidwayMeetup | 320px-535px | NOI | No visible protrusion of element outside the viewport [Screenshot and Detailed Information](../2017/02/20/MidwayMeetup-failure-1.html) |
+| Viewport Protrusion| Pdf-Escape | 320px-800px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-1.html) |
+| Viewport Protrusion| Pdf-Escape | 768px-780px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-2.html) |
+| Viewport Protrusion| Pdf-Escape | 960px-972px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/Pdf-Escape-failure-3.html) |
+| Viewport Protrusion| PepFeed | 1025px-1080px | NOI | No content obscured by viewport protrusion [Screenshot and Detailed Information](../2017/02/20/PepFeed-failure-2.html) |
+| Viewport Protrusion| WhatShouldIReadNext | 601px-611px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/WhatShouldIReadNext-failure-1.html) |
+| Viewport Protrusion| WhatShouldIReadNext | 601px-611px | NOI | No content obscured by viewport protrusion, so just an NOI [Screenshot and Detailed Information](../2017/02/20/WhatShouldIReadNext-failure-2.html) |
