@@ -189,3 +189,5 @@ table { border-collapse: collapse; border-spacing: 0; }
 .highlight .il { color: #0000cf; font-weight: bold; }
 
 .center-image { margin: 0 auto; display: block; max-width: 400px; border: 1px solid black; }
+
+.table-image { margin: 0 auto; display: block; max-width: 250; }

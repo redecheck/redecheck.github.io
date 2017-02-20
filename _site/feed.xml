@@ -4,10 +4,10 @@
     <title>ReDeCheck - Automatic Responsive Website Testing</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://redecheck.org/</link>
-    <atom:link href="http://redecheck.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 14:59:26 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 14:59:26 +0000</lastBuildDate>
+    <link>http://redecheck.org//</link>
+    <atom:link href="http://redecheck.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Feb 2017 11:55:24 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 11:55:24 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,11 +31,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/ZeroDollarMovies-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/ZeroDollarMovies-failure-2.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</guid>
         
         
       </item>
@@ -61,11 +61,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/ZeroDollarMovies-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/ZeroDollarMovies-failure-1.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</guid>
         
         
       </item>
@@ -91,24 +91,24 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WillMyPhoneWork/fault4/smallrangeWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WillMyPhoneWork/fault4/smallrangeWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-distinct-rlf-8&quot;&gt;About Distinct RLF 8&lt;/h2&gt;
 
 &lt;p&gt;At the viewport widths of 990px and 991px, a misuse of media queries controlling the switch between the mobile and desktop versions of the site results in the header bar and the main content banner overlapping. Given the failure occurs right at the top of the web page, it could be said to be fairly serious, as it could make visitors to the site unsure of the site’s quality and by extension, the quality of the service offered by the site. As it only occurs at two viewport widths, manual testing would be highly unlikely to detect the failure. It still currently manifests in the live site, available &lt;a href=&quot;http://willmyphonework.net/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;At 989px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 990px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 992px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-4.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-4.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</guid>
         
         
       </item>
@@ -134,24 +134,24 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WillMyPhoneWork/fault3/smallrangeWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WillMyPhoneWork/fault3/smallrangeWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-distinct-rlf-8&quot;&gt;About Distinct RLF 8&lt;/h2&gt;
 
 &lt;p&gt;At the viewport widths of 990px and 991px, a misuse of media queries controlling the switch between the mobile and desktop versions of the site results in the header bar and the main content banner overlapping. Given the failure occurs right at the top of the web page, it could be said to be fairly serious, as it could make visitors to the site unsure of the site’s quality and by extension, the quality of the service offered by the site. As it only occurs at two viewport widths, manual testing would be highly unlikely to detect the failure. It still currently manifests in the live site, available &lt;a href=&quot;http://willmyphonework.net/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;At 989px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 990px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 992px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-3.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-3.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</guid>
         
         
       </item>
@@ -177,11 +177,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-2.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</guid>
         
         
       </item>
@@ -207,24 +207,24 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WillMyPhoneWork/fault1/overlapWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WillMyPhoneWork/fault1/overlapWidth990.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-distinct-rlf-8&quot;&gt;About Distinct RLF 8&lt;/h2&gt;
 
 &lt;p&gt;At the viewport widths of 990px and 991px, a misuse of media queries controlling the switch between the mobile and desktop versions of the site results in the header bar and the main content banner overlapping. Given the failure occurs right at the top of the web page, it could be said to be fairly serious, as it could make visitors to the site unsure of the site’s quality and by extension, the quality of the service offered by the site. As it only occurs at two viewport widths, manual testing would be highly unlikely to detect the failure. It still currently manifests in the live site, available &lt;a href=&quot;http://willmyphonework.net/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;At 989px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/989.png&quot; alt=&quot;989px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 990px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/990.png&quot; alt=&quot;980px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At 992px, the page looks like this:
-&lt;img src=&quot;/assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WillMyPhoneWork-failure-1.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</guid>
         
         
       </item>
@@ -250,11 +250,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WhatShouldIReadNext-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WhatShouldIReadNext-failure-2.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</guid>
         
         
       </item>
@@ -280,11 +280,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/WhatShouldIReadNext-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/WhatShouldIReadNext-failure-1.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</guid>
         
         
       </item>
@@ -310,7 +310,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/UserSearch/fault2/wrappingWidth709.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/UserSearch/fault2/wrappingWidth709.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-distinct-rlf-33&quot;&gt;About Distinct RLF 33&lt;/h2&gt;
 
@@ -319,14 +319,14 @@
 &lt;p&gt;The issue manifests on many device viewport widths and is part of the page’s main content, so a manual testing procedure should be able to detect it easily. Despite this, the issue is still present on the live version of the site, &lt;a href=&quot;https://usersearch.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here is the failure manifesting:
-&lt;img src=&quot;/assets/good-bad/rlf33/bad.png&quot; alt=&quot;Bad&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf33/bad.png&quot; alt=&quot;Bad&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the page once the viewport is wide enough to show all elements in a single row:
-&lt;img src=&quot;/assets/good-bad/rlf33/ok.png&quot; alt=&quot;OK&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../../../assets/good-bad/rlf33/ok.png&quot; alt=&quot;OK&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/UserSearch-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/UserSearch-failure-2.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/UserSearch-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-2.html</guid>
         
         
       </item>
@@ -352,11 +352,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/UserSearch/fault1/overlapWidth849.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../assets/images/UserSearch/fault1/overlapWidth849.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org/2017/02/17/UserSearch-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org/2017/02/17/UserSearch-failure-1.html</guid>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://redecheck.org//2017/02/20/UserSearch-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-1.html</guid>
         
         
       </item>
