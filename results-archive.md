@@ -4,7 +4,7 @@ title: Results Archive
 permalink: /results-archive/
 ---
 
-## Automated Layout Failure Detection for Responsive Web Pages Without the Use of Explicit Oracles - Results Archive
+## Automated Layout Failure Detection for Responsive Web Pages Without the Use of Explicit Oracles
 
 ### Navigating around the Archive
 Exploring the results archive is straight-forward. The individual failure reports are listed below, separated into three different categories. The first, TP (True Positive), are failures highlighting actual visual issues with the layout of the site, such as overlapping elements, elements overflowing their parent or the viewport, or wrapping elements. The second, FP (False Positive) are reported failures which are actually layout behaviour intended by the developer. Finally, NOI (Non-Observable Issues) are failures that are not visible to the user but present potential future issues at the DOM level.
