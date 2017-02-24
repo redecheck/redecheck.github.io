@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Viewport Protrusion| 21 | 768px-850px | TP | Part of image obscured by protrusion outside viewport | 
 
-![Screenshot of the fault](assets/images/Pdf-Escape/fault4/viewportOverflowWidth809.png){: .center-image }
+![Screenshot of the fault](../assets/images/Pdf-Escape/fault4/viewportOverflowWidth809.png){: .center-image }
 
 ## About Distinct RLF 21 {#About-drlf}
 
@@ -17,7 +17,7 @@ At wide viewport widths, the row of company logos are rendered easily side-by-si
 The failure only manifests for a fairly small range of viewport widths, which are not commonly advocated for testing, so a manual testing procedure may struggle to easily detect it. It is still currently present on the live version of the site, available [here](http://www.pdfescape.com/).
 
 Here is the web page when the failure is not manifesting:
-![OK](assets/good-bad/rlf21/ok.png){: .center-image}
+![OK](../assets/good-bad/rlf21/ok.png){: .center-image}
 
 At narrower viewport widths, the image protrudes out of the viewport:
-![Bad](assets/good-bad/rlf21/bad.png){: .center-image}
+![Bad](../assets/good-bad/rlf21/bad.png){: .center-image}

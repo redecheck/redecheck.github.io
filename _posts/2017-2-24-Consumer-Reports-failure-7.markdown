@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Viewport Protrusion| 16 | 320px-377px | TP | Element clearly protruding outside of the viewport | 
 
-![Screenshot of the fault](assets/images/Consumer-Reports/fault7/viewportOverflowWidth348.png){: .center-image }
+![Screenshot of the fault](../assets/images/Consumer-Reports/fault7/viewportOverflowWidth348.png){: .center-image }
 
 ## About Distinct RLF 16 {#About-drlf}
 
@@ -17,10 +17,10 @@ At wider viewport widths, the "Featured Products" tiles fit comfortably within t
 The failure is only visible for a fairly small number of viewport widths, but the very common viewport width of 320px is one of them. As the failure is also clearly visible (multiple tiles all protruding in the middle of the page), a manual testing procedure should be easily able to detect it. However, it is still currently present on the live version of the site, available [here](http://bugmenot.com/).
 
 Here is the web page when the failure is not manifesting:
-![OK](assets/good-bad/rlf16/ok.png){: .center-image}
+![OK](../assets/good-bad/rlf16/ok.png){: .center-image}
 
 The tiles begin to protrude, but not significantly:
-![Bad](assets/good-bad/rlf16/bad.png){: .center-image}
+![Bad](../assets/good-bad/rlf16/bad.png){: .center-image}
 
 At 320px, the tiles overflowing the viewport quite significantly:
-![Very Bad](assets/good-bad/rlf16/verybad.png){: .center-image}
+![Very Bad](../assets/good-bad/rlf16/verybad.png){: .center-image}

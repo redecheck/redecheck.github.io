@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Element Protrusion| 11 | 801px-805px | TP | Navigation links have clearly protruded outside the navbar and become invisible and unclickable | 
 
-![Screenshot of the fault](assets/images/Pdf-Escape/fault8/overflow-Width803.png){: .center-image }
+![Screenshot of the fault](../assets/images/Pdf-Escape/fault8/overflow-Width803.png){: .center-image }
 
 ## About Distinct RLF 11 {#About-drlf}
 
@@ -17,10 +17,10 @@ At narrow widths, the navigation links in the web page's header are collapsed do
 Given that it occurs for such a small number of widths and these widths are "in between" typical tablet and desktop viewport sizes, it is likely the fault would go undetected by manual testing. Indeed, the failure is still present in the live version of the site, available [here](http://www.pdfescape.com/).
 
 The links collapsed to a drop down:
-![760px](assets/good-bad/rlf11/760.png){: .center-image}
+![760px](../assets/good-bad/rlf11/760.png){: .center-image}
 
 At a small range of widths, the elements overflow and are unclickable:
-![802px](assets/good-bad/rlf11/802.png){: .center-image}
+![802px](../assets/good-bad/rlf11/802.png){: .center-image}
 
 At wider widths, they are correctly rendered in a row in the header:
-![1024px](assets/good-bad/rlf11/1024.png){: .center-image}
+![1024px](../assets/good-bad/rlf11/1024.png){: .center-image}

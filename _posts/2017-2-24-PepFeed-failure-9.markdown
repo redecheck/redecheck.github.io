@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Element Collision| 5 | 769px-933px | TP | Panels 1 and 3 clearly overlapping | 
 
-![Screenshot of the fault](assets/images/PepFeed/fault9/overlapWidth851.png){: .center-image }
+![Screenshot of the fault](../assets/images/PepFeed/fault9/overlapWidth851.png){: .center-image }
 
 ## About Distinct RLF 5 {#About-drlf}
 
@@ -17,7 +17,7 @@ When the viewport is wide such as on a desktop, four content panels are rendered
 Given that the failure manifests on a reasonable number of viewport widths and is located near the top of the page, it should be easily detected by a manual tester. However, the faulty viewport widths are "in between" typical smartphone and tablet sizes, which might explain why the fault is still manifesting in the live site, available [here](http://pepfeed.com).
 
 At 1000px, the layout is in a row and all is well:
-![1000px](assets/good-bad/rlf5/1000.png){: .center-image}
+![1000px](../assets/good-bad/rlf5/1000.png){: .center-image}
 
 However, an narrow viewport widths such as 928px, an overlap occurs
-![928px](assets/good-bad/rlf5/928.png){: .center-image}
+![928px](../assets/good-bad/rlf5/928.png){: .center-image}

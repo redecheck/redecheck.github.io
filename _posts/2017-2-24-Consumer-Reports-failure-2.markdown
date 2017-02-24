@@ -6,4 +6,4 @@ permalink: Consumer-Reports-failure-2
 | **Report Type** | **Viewport Range** | **Classification** | **Reason** |
 | Viewport Protrusion| 1200px-1400px | NOI | No content obscured by viewport protrusion, so just an NOI | 
 
-![Screenshot of the fault](assets/images/Consumer-Reports/fault2/viewportOverflowWidth1300.png){: .center-image }
+![Screenshot of the fault](../assets/images/Consumer-Reports/fault2/viewportOverflowWidth1300.png){: .center-image }

@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Wrapping| 29 | 320px-385px | TP | 'Privacy Policy' cleared wraps onto a new line | 
 
-![Screenshot of the fault](assets/images/Covered-Calendar/fault4/wrappingWidth352.png){: .center-image }
+![Screenshot of the fault](../assets/images/Covered-Calendar/fault4/wrappingWidth352.png){: .center-image }
 
 ## About Distinct RLF 29 {#About-drlf}
 
@@ -17,7 +17,7 @@ The "Privacy Policy" links wraps onto a new line as the viewport becomes narrow.
 The issue manifests on many common mobile device viewport widths, but the failure is located at the bottom of the web page. Therefore, a fairly thorough manual testing procedure would likely be required to detect it.
 
 Here is the failure manifesting:
-![Bad](assets/good-bad/rlf29/bad.png){: .center-image}
+![Bad](../assets/good-bad/rlf29/bad.png){: .center-image}
 
 Here is the page once the viewport is wide enough to show all elements in a single row:
-![OK](assets/good-bad/rlf29/ok.png){: .center-image}
+![OK](../assets/good-bad/rlf29/ok.png){: .center-image}

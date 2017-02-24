@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Element Collision| 7 | 320px-439px | TP | Element collision clearly causing undesirable layout | 
 
-![Screenshot of the fault](assets/images/StumbleUpon/fault1/overlapWidth379.png){: .center-image }
+![Screenshot of the fault](../assets/images/StumbleUpon/fault1/overlapWidth379.png){: .center-image }
 
 ## About Distinct RLF 7 {#About-drlf}
 
@@ -17,7 +17,7 @@ When the viewport is wide enough, the login link is rendered in the top right co
 Given that the failure manifests on a reasonable number of viewport widths including many common mobile device viewport widths and is located near the top of the page, it should be easily detected by a manual tester. However, the fault is still manifesting in the live site, available [here](http://www.stumbleupon.com/).
 
 At 476px, all is well with the layout:
-![476px](assets/good-bad/rlf7/476.png){: .center-image}
+![476px](../assets/good-bad/rlf7/476.png){: .center-image}
 
 However, an narrow viewport widths such as 395px, an overlap occurs, causing the undesirable layout:
-![395px](assets/good-bad/rlf7/395.png){: .center-image}
+![395px](../assets/good-bad/rlf7/395.png){: .center-image}

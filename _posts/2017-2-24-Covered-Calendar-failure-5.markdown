@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Wrapping| 30 | 768px-979px | TP | Header navigation link clearly wraps onto a new line | 
 
-![Screenshot of the fault](assets/images/Covered-Calendar/fault5/wrappingWidth873.png){: .center-image }
+![Screenshot of the fault](../assets/images/Covered-Calendar/fault5/wrappingWidth873.png){: .center-image }
 
 ## About Distinct RLF 30 {#About-drlf}
 
@@ -17,10 +17,10 @@ The "Pricing" navigation link in the header bar wraps onto a new line as the vie
 The issue manifests on many viewport widths and is located at the top of the web page. Therefore, a manual testing procedure would likely detect it with relative ease. Despite this, the issue is still present on the live version of the site, [here](https://www.coveredcalendar.com/).
 
 At mobile widths, the navigation links are collapsed to a drop-down menu:
-![Mobile](assets/good-bad/rlf30/mobile.png){: .center-image}
+![Mobile](../assets/good-bad/rlf30/mobile.png){: .center-image}
 
 Here is the failure manifesting:
-![Bad](assets/good-bad/rlf30/bad.png){: .center-image}
+![Bad](../assets/good-bad/rlf30/bad.png){: .center-image}
 
 Here is the page once the viewport is wide enough to show all elements in a single row:
-![OK](assets/good-bad/rlf30/ok.png){: .center-image}
+![OK](../assets/good-bad/rlf30/ok.png){: .center-image}

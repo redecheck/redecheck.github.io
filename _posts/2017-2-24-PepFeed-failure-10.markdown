@@ -8,7 +8,7 @@ Below is a summary of the failure report produced by the tool. If it has been cl
 | **Report Type** | **Distinct RLF** | **Viewport Range** | **Classification** | **Reason** |
 | Element Collision| 6 | 415px-415px | TP | Panels 2 and 3 clearly overlapping | 
 
-![Screenshot of the fault](assets/images/PepFeed/fault10/overlapWidth415.png){: .center-image }
+![Screenshot of the fault](../assets/images/PepFeed/fault10/overlapWidth415.png){: .center-image }
 
 ## About Distinct RLF 6 {#About-drlf}
 
@@ -17,10 +17,10 @@ When the viewport is wide enough, three content panels are rendered side by side
 Given that the failure manifests at a single viewport width, it would be likely undetected by a manual tester, despite being located near the top of the page. Therefore, it comes as little surprise the fault is still manifesting in the live site, available [here](http://pepfeed.com).
 
 At very narrow widths, the page looks like this and all is okay:
-![400px](assets/good-bad/rlf6/400.png){: .center-image}
+![400px](../assets/good-bad/rlf6/400.png){: .center-image}
 
 At 415px, the panels 2 and 3 are overlapping:
-![415px](assets/good-bad/rlf6/415.png){: .center-image}
+![415px](../assets/good-bad/rlf6/415.png){: .center-image}
 
 At 420px, the panels are no longer overlapping:
-![420px](assets/good-bad/rlf6/420.png){: .center-image}
+![420px](../assets/good-bad/rlf6/420.png){: .center-image}
