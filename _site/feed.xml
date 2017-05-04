@@ -4,10 +4,10 @@
     <title>ReDeCheck - Automatic Responsive Website Testing</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 09:51:50 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 09:51:50 +0000</lastBuildDate>
+    <link>http://redecheck.org//</link>
+    <atom:link href="http://redecheck.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Feb 2017 10:25:22 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 10:25:22 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -32,8 +32,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/ZeroDollarMovies-failure-2.html</link>
-        <guid isPermaLink="true">/2017/02/20/ZeroDollarMovies-failure-2.html</guid>
+        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</guid>
         
         
       </item>
@@ -60,8 +60,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/ZeroDollarMovies-failure-1.html</link>
-        <guid isPermaLink="true">/2017/02/20/ZeroDollarMovies-failure-1.html</guid>
+        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</guid>
         
         
       </item>
@@ -103,8 +103,8 @@
 &lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WillMyPhoneWork-failure-4.html</link>
-        <guid isPermaLink="true">/2017/02/20/WillMyPhoneWork-failure-4.html</guid>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</guid>
         
         
       </item>
@@ -146,8 +146,8 @@
 &lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WillMyPhoneWork-failure-3.html</link>
-        <guid isPermaLink="true">/2017/02/20/WillMyPhoneWork-failure-3.html</guid>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</guid>
         
         
       </item>
@@ -174,8 +174,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WillMyPhoneWork-failure-2.html</link>
-        <guid isPermaLink="true">/2017/02/20/WillMyPhoneWork-failure-2.html</guid>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</guid>
         
         
       </item>
@@ -217,8 +217,8 @@
 &lt;img src=&quot;../../../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WillMyPhoneWork-failure-1.html</link>
-        <guid isPermaLink="true">/2017/02/20/WillMyPhoneWork-failure-1.html</guid>
+        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</guid>
         
         
       </item>
@@ -245,8 +245,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WhatShouldIReadNext-failure-2.html</link>
-        <guid isPermaLink="true">/2017/02/20/WhatShouldIReadNext-failure-2.html</guid>
+        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</guid>
         
         
       </item>
@@ -273,8 +273,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/WhatShouldIReadNext-failure-1.html</link>
-        <guid isPermaLink="true">/2017/02/20/WhatShouldIReadNext-failure-1.html</guid>
+        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</guid>
         
         
       </item>
@@ -315,8 +315,8 @@
 &lt;img src=&quot;../../../assets/good-bad/rlf33/ok.png&quot; alt=&quot;OK&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/UserSearch-failure-2.html</link>
-        <guid isPermaLink="true">/2017/02/20/UserSearch-failure-2.html</guid>
+        <link>http://redecheck.org//2017/02/20/UserSearch-failure-2.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-2.html</guid>
         
         
       </item>
@@ -343,8 +343,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../assets/images/UserSearch/fault1/overlapWidth849.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/2017/02/20/UserSearch-failure-1.html</link>
-        <guid isPermaLink="true">/2017/02/20/UserSearch-failure-1.html</guid>
+        <link>http://redecheck.org//2017/02/20/UserSearch-failure-1.html</link>
+        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-1.html</guid>
         
         
       </item>
