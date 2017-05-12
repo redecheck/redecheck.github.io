@@ -1,0 +1,36 @@
+Web Page,Failure No.,Description,320,360,375,384,400,414,480,568,600,603,640,667,700,736,768,800,966,980,1024,1280,1366,Kersley,Responsinator,RD Checker,Wasserman,Firefox RWD,Random
+3 Minute Journal,1,Calendar VO at narrow widths,y,y,y,y,y,y,y,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+,2,Calendar VO at wider widths,,,,,,,,,,,,,,,,,,,y,,,Y,Y,Y,Y,Y,Y
+AccountKiller,1,Small range 478,,,,,,,y,,,,,,,,,,,,,,,Y,N,Y,Y,Y,N
+,2,Wrapping 1 - Atlantic,,,,,,,,,,,,,,,,y,,,,,,N,N,N,Y,Y,Y
+,3,Wrapping 2 - Twitter icon,,,,,y,y,,,,,,,,,,,,,,,,N,Y,N,Y,Y,Y
+AirBnb,1,Instagram logo wrap,y,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+,2,Terms Wrap,y,y,y,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+BugMeNot,1,Search bar overflows header,y,y,y,y,y,y,y,y,y,y,y,y,,,,,,,,,,Y,Y,Y,Y,Y,Y
+,2,Search button wraps,y,y,y,y,y,,y,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+,3,Domain search bar VO,y,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,N
+,4,Header search bar VO,y,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,N
+CloudConvert,1,Issue at 980px,,,,,,,,,,,,,,,,,,y,,,,N,N,N,N,Y,N
+ConsumerReports,1,Main banner VO,,,,,,,,,,,,,,,y,y,y,y,y,,,Y,Y,Y,Y,Y,Y
+,2,Privacy Policy VO on left,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,Y
+,3,Featured Products VO,y,y,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+,4,Text Overflow,y,y,y,y,y,y,y,y,y,y,y,y,y,y,,,,,,,,Y,Y,Y,Y,Y,Y
+Covered Calendar,1,Wrapping nav bar,,,,,,,,,,,,,,,y,y,y,y,,,,Y,Y,Y,Y,Y,Y
+,2,Wrapping footer links,y,y,y,y,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+Duolingo,1,Arrow overflowing viewport,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,N
+Hotel Wifi Test,1,Viewport Overflow,,,,,,,y,y,y,y,y,y,y,y,,,,,,,,Y,Y,Y,Y,Y,Y
+MidwayMeetup,1,Forms overlapping,,,,,,,,,,,,,,,y,y,y,y,y,,,Y,Y,Y,Y,Y,Y
+Ninite,1,Wrapping,y,y,y,y,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+Pdf-Escape,1,Nav bar overflows into banner,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,N
+,2,Image overflows viewport,,,,,,,,,,,,,,,y,,,,,,,Y,Y,Y,Y,Y,Y
+PepFeed,1,“Amazon” link partially obscured,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,N
+,2,1 and 2 overlap 415-547,,,,,,,y,,,,,,,,,,,,,,,Y,N,Y,Y,Y,Y
+,3,1 and 3 overlap again 548 -701,,,,,,,,y,y,y,y,y,,,,,,,,,,N,Y,Y,Y,Y,Y
+,4,1 and 3 yet again 769 - 934,,,,,,,,,,,,,,,,y,,,,,,N,N,N,Y,Y,Y
+,5,2 and 3 415,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,N
+,6,Verge wraps,y,y,y,y,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+StumbleUpon,1,Logo overlap,y,y,y,y,y,y,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,Y
+UserSearch,1,Wrapping,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,,,,,,,Y,Y,Y,Y,Y,Y
+WillMyPhoneWork,1,Clashing media queries,,,,,,,,,,,,,,,,,,,,,,N,N,N,N,N,N
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TOTALS,37,14,11,10,9,7,6,8,5,5,5,5,5,3,3,5,5,3,4,3,0,0,22,22,23,26,27,24

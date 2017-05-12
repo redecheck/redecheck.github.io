@@ -6,13 +6,8 @@
 </description>
     <link>http://redecheck.org//</link>
     <atom:link href="http://redecheck.org//feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 21 Feb 2017 10:25:22 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 10:25:22 +0000</lastBuildDate>
-=======
-    <pubDate>Fri, 24 Feb 2017 16:36:44 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 16:36:44 +0000</lastBuildDate>
->>>>>>> master
+    <pubDate>Fri, 12 May 2017 10:44:47 +0100</pubDate>
+    <lastBuildDate>Fri, 12 May 2017 10:44:47 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -36,15 +31,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/ZeroDollarMovies/fault2/smallrangeWidth481.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-2.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//ZeroDollarMovies-failure-2</link>
         <guid isPermaLink="true">http://redecheck.org//ZeroDollarMovies-failure-2</guid>
->>>>>>> master
         
         
       </item>
@@ -70,15 +59,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/ZeroDollarMovies/fault1/smallrangeWidth482.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/ZeroDollarMovies-failure-1.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//ZeroDollarMovies-failure-1</link>
         <guid isPermaLink="true">http://redecheck.org//ZeroDollarMovies-failure-1</guid>
->>>>>>> master
         
         
       </item>
@@ -121,15 +104,9 @@
 &lt;p&gt;At 992px, the page looks like this:
 &lt;img src=&quot;../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-4.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WillMyPhoneWork-failure-4</link>
         <guid isPermaLink="true">http://redecheck.org//WillMyPhoneWork-failure-4</guid>
->>>>>>> master
         
         
       </item>
@@ -172,15 +149,9 @@
 &lt;p&gt;At 992px, the page looks like this:
 &lt;img src=&quot;../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-3.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WillMyPhoneWork-failure-3</link>
         <guid isPermaLink="true">http://redecheck.org//WillMyPhoneWork-failure-3</guid>
->>>>>>> master
         
         
       </item>
@@ -206,15 +177,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/WillMyPhoneWork/fault2/overflow-Width1095.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-2.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WillMyPhoneWork-failure-2</link>
         <guid isPermaLink="true">http://redecheck.org//WillMyPhoneWork-failure-2</guid>
->>>>>>> master
         
         
       </item>
@@ -257,15 +222,9 @@
 &lt;p&gt;At 992px, the page looks like this:
 &lt;img src=&quot;../assets/good-bad/rlf8/992.png&quot; alt=&quot;992px&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WillMyPhoneWork-failure-1.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WillMyPhoneWork-failure-1</link>
         <guid isPermaLink="true">http://redecheck.org//WillMyPhoneWork-failure-1</guid>
->>>>>>> master
         
         
       </item>
@@ -291,15 +250,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/WhatShouldIReadNext/fault2/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-2.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WhatShouldIReadNext-failure-2</link>
         <guid isPermaLink="true">http://redecheck.org//WhatShouldIReadNext-failure-2</guid>
->>>>>>> master
         
         
       </item>
@@ -325,15 +278,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/WhatShouldIReadNext/fault1/viewportOverflowWidth606.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/WhatShouldIReadNext-failure-1.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//WhatShouldIReadNext-failure-1</link>
         <guid isPermaLink="true">http://redecheck.org//WhatShouldIReadNext-failure-1</guid>
->>>>>>> master
         
         
       </item>
@@ -375,15 +322,9 @@
 &lt;p&gt;Here is the page once the viewport is wide enough to show all elements in a single row:
 &lt;img src=&quot;../assets/good-bad/rlf33/ok.png&quot; alt=&quot;OK&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/UserSearch-failure-2.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-2.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//UserSearch-failure-2</link>
         <guid isPermaLink="true">http://redecheck.org//UserSearch-failure-2</guid>
->>>>>>> master
         
         
       </item>
@@ -409,15 +350,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/UserSearch/fault1/overlapWidth849.png&quot; alt=&quot;Screenshot of the fault&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 </description>
-<<<<<<< HEAD
-        <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://redecheck.org//2017/02/20/UserSearch-failure-1.html</link>
-        <guid isPermaLink="true">http://redecheck.org//2017/02/20/UserSearch-failure-1.html</guid>
-=======
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
         <link>http://redecheck.org//UserSearch-failure-1</link>
         <guid isPermaLink="true">http://redecheck.org//UserSearch-failure-1</guid>
->>>>>>> master
         
         
       </item>
