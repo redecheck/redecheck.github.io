@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Results Archive
-permalink: /results-archive/
+title: ISSTA 2017Results Archive
+permalink: /issta17/
 ---
 
 ## Automated Layout Failure Detection for Responsive Web Pages Without the Use of Explicit Oracles
