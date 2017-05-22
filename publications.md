@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Automated Layout Failure Detection for Responsive Web Pages Without the Use of an Explicit Oracle
 
-##### To Appear, International Symposium on Software Testing and Analysis (ISSTA 2017)
+##### To Appear, Main Research track, International Symposium on Software Testing and Analysis (ISSTA 2017)
 
 
 Our second publication for ReDeCheck, it is due to be published in July in Santa Barbara, California. Links to the paper and presentation will be uploaded after publication.
@@ -16,6 +16,12 @@ Our second publication for ReDeCheck, it is due to be published in July in Santa
 
 
 [Slides PDF Download](/assets/pdfs/ase-slides.pdf) -->
+
+### ReDeCheck: An Automatic Layout Failure Checking Tool for Responsively Designed Web Pages
+
+##### To Appear, "Tool Demonstration" track, International Symposium on Software Testing and Analysis (ISSTA 2017)
+
+A tool demonstration paper presenting the implementation of ReDeCheck, along with usage scenarios.
 
 ### Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages
 
